@@ -5,15 +5,15 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter} from 'react-router-dom';
 
-const prepare = () => {
-  if (process.env.NODE_ENV === 'development') {  // prevents the mock server from working in a deployed, production env
-    const { worker } = require('./mocks/browser.js')
-    return worker.start() // Comment out this return statement to disable the mock api
-  }
-  return Promise.resolve()
-}
+// const prepare = () => {
+//   if (process.env.NODE_ENV === 'development') {  // prevents the mock server from working in a deployed, production env
+//     const { worker } = require('./mocks/browser.js')
+//     return worker.start() // Comment out this return statement to disable the mock api
+//   }
+//   return Promise.resolve()
 
-prepare().then(() => {
+
+// prepare().then(() => {
   const root = ReactDOM.createRoot(document.getElementById('root'))
   root.render(
     <React.StrictMode>
@@ -23,7 +23,7 @@ prepare().then(() => {
 
     </React.StrictMode>
   );
-})
+// })
 
 
 
