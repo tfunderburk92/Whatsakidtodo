@@ -3,23 +3,54 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import { BrowserRouter} from 'react-router-dom';
+import { Router, BrowserRouter, Route, Routes } from 'react-router-dom';
 
-// const prepare = () => {
-//   if (process.env.NODE_ENV === 'development') {  // prevents the mock server from working in a deployed, production env
-//     const { worker } = require('./mocks/browser.js')
-//     return worker.start() // Comment out this return statement to disable the mock api
-//   }
-//   return Promise.resolve()
+// Requirements:
+// -1 Create a Home page that contains a filtered list (Input + list)
+// -2 cr
+
+const prepare = () => {
+  if (process.env.NODE_ENV === 'development') {  // prevents the mock server from working in a deployed, production env
+    const { worker } = require('./mocks/browser.js')
+    return worker.start() // Comment out this return statement to disable the mock api
+  }
+  return Promise.resolve()
+}
 
 
+const ActivityDetails = () => (
+  <p>Hello</p>
+)
+ 
 // prepare().then(() => {
   const root = ReactDOM.createRoot(document.getElementById('root'))
   root.render(
     <React.StrictMode>
-      <BrowserRouter>
-      <App />
-      </BrowserRouter>
+
+    <BrowserRouter>
+    <Routes>
+      <Route>
+        <Route index element={<App />} />
+        <Route path="/activity-details" element={<ActivityDetails />} />
+      </Route>
+    </Routes>
+    </BrowserRouter>
+
+
+      {/* <BrowserRouter>
+        <Routes>
+        <Route path="/">
+            <App />
+        </Route>
+
+
+        <Route path="/activity-details">
+          <p>Activity details</p>
+        </Route>
+        </Routes>
+
+
+      </BrowserRouter> */}
 
     </React.StrictMode>
   );
