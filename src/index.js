@@ -4,10 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { Router, BrowserRouter, Route, Routes } from 'react-router-dom';
-
-// Requirements:
-// -1 Create a Home page that contains a filtered list (Input + list)
-// -2 cr
+import ActivityDetails from './ActivityDetails'
 
 const prepare = () => {
   if (process.env.NODE_ENV === 'development') {  // prevents the mock server from working in a deployed, production env
@@ -17,10 +14,6 @@ const prepare = () => {
   return Promise.resolve()
 }
 
-
-const ActivityDetails = () => (
-  <p>Hello</p>
-)
  
 // prepare().then(() => {
   const root = ReactDOM.createRoot(document.getElementById('root'))

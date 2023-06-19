@@ -1,6 +1,7 @@
 import { useRef, useState, useEffect } from "react";
 import { Link } from 'react-router-dom';
 import jsonData from './mocks/activitydata.json'
+import Header from "./Header"
 
 
 
@@ -28,6 +29,8 @@ function App() {
  
   return (
     <div className="App">
+<Header />
+
       <input
         value={input}
         onChange={(event) => {

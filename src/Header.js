@@ -31,7 +31,7 @@ return (
 
 		<Typography variant="h6"
 			component="div" sx={{ flexGrow: 1 }}>
-			GeeksforGeeks Header
+			What's a Kid to Do?
 		</Typography>
 		<Button color="inherit">Login</Button>
 		</Toolbar>
