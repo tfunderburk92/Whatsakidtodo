@@ -42,7 +42,7 @@ function App() {
           loadActivities();
         }}
       >
-        search
+         Search Location
       </button>
       <div>
         <ul>
