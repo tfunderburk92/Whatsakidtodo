@@ -1,0 +1,3833 @@
+{
+    "retries": 0,
+    "total_results": 10000,
+    "items_per_page": 10,
+    "start_index": 0,
+    "facets": [],
+    "facet_values": [],
+    "date_facets": [],
+    "suggestions": [],
+    "results": [
+      {
+        "assetTopics": [
+          {
+            "sequence": 1,
+            "topic": {
+              "topicId": 43,
+              "topicName": "Arts and crafts",
+              "topicTaxonomy": "Recreation/Arts and crafts"
+            }
+          }
+        ],
+        "salesEndDate": "2050-01-12T17:30:00",
+        "regReqGenderCd": "C",
+        "registrationUrlAdr": "http://www.active.com/philadelphia-pa/classes/introduction-to-hand-planing-2012",
+        "retryDate": "2019-07-01T04:18:05",
+        "evergreenAssets": [],
+        "assetSeoUrls": [
+          {
+            "seoSystemName": "as3",
+            "statusCode": true,
+            "urlAdr": "http://www.active.com/philadelphia-pa/classes/introduction-to-hand-planing-2012?cmp=39-35-tfunderburk92"
+          }
+        ],
+        "publishDate": null,
+        "assetChannels": [
+          {
+            "sequence": 1,
+            "channel": {
+              "channelDsc": "",
+              "channelName": "Community Services",
+              "channelId": 1208
+            }
+          }
+        ],
+        "sorCreateDtm": null,
+        "sponsoredContent": {},
+        "dynamicPriceIncluded": false,
+        "localeCd": "",
+        "activityRecurrences": [
+          {
+            "frequencyInterval": null,
+            "activityStartDate": "2012-12-15T00:00:00",
+            "activityExclusions": [],
+            "monthWeekInterval": null,
+            "activityEndDate": "2050-01-08T00:00:00",
+            "days": "Saturday",
+            "startTime": "10:30:00",
+            "endTime": "17:30:00",
+            "frequency": {
+              "frequencyName": "Weekly"
+            }
+          }
+        ],
+        "assetLegacyData": {
+          "maxTeamNb": "",
+          "assetTypeId": "FB27C928-54DB-4ECD-B42F-482FC3C8681F",
+          "costAmt": null,
+          "typeName": "",
+          "uploadSearchUrlAdr": "",
+          "avgUserRatingTxt": "",
+          "trackbackUrl": "",
+          "seoUrl": "http://www.active.com/community-services-class/philadelphia-pa/introduction-to-hand-planing-2012?cmp=39-35-tfunderburk92",
+          "eventCategories": "",
+          "estParticipantNb": "",
+          "participationCriteriaTxt": "",
+          "priceExtensionTxt": "",
+          "isSearchable": false,
+          "onlineMembership": false,
+          "minGuaranteedGameNb": "",
+          "searchWeight": "1.0000",
+          "userCommentTxt": "",
+          "substitutionUrl": "philadelphiawoodworks/registrationmain.sdi?source=showAsset.sdi&activity_id=168",
+          "onlineDonation": false,
+          "genderRequirementTxt": "",
+          "createdDate": "2012-10-25T16:45:33",
+          "onlineMembershipCostAmt": null,
+          "authorName": "",
+          "onlineRegistration": true,
+          "modifiedDate": "2019-07-01T04:08:04",
+          "multipleStartDate": false
+        },
+        "activityEndDate": "2050-01-12T22:30:00",
+        "assetDeals": [],
+        "assetServiceHostName": "prod-asset-03w",
+        "childIndex": null,
+        "assetDescriptions": [
+          {
+            "descriptionType": {
+              "descriptionTypeName": "Standard",
+              "descriptionTypeId": 6
+            },
+            "description": "<div><h4>Description</h4><p><font face=\"Calibri\">  <p class=\"MsoNormal\" style=\"margin: 0in 0in 10pt;\"><font face=\"Calibri\">Look to our website for complete course description, pictures, and material costs (if any). If this class reaches its maximum class size, call us at 267-331-5880 to reserve your place on our waiting list and you'll be the first to know when a spot opens up!</font></p>  <p class=\"MsoNormal\" style=\"margin: 0in 0in 10pt;\">Please arrive at least 15 minutes before the start time of your class to fill out the Waiver and Release of Liability. </p>  <p class=\"MsoNormal\" style=\"margin: 0in 0in 10pt;\">You must be 18 years or older before the start date of the class. </p>  <p class=\"MsoNormal\" style=\"margin: 0in 0in 10pt;\">If you have additional tools you would like to use for the class, please arrive an additional 10 minutes early to give our staff time to look over your tools. </p>  <p class=\"MsoNormal\" style=\"margin: 0in 0in 10pt;\">Wear appropriate apparel. Do not wear loose or dangling clothing, gloves, neckties, jewelry or bracelets. Open-toed shoes and sandals are prohibited in the shop and classroom. Long hair must be tied back. Sleeves must either be buttoned at the cuff or rolled up above the elbow and loose clothing tucked in at the waist or wear an apron. Headphones of any kind while using any machines are not permitted. </p>  <p class=\"MsoNormal\" style=\"margin: 0in 0in 10pt;\">Make sure to review our Reservation and Cancellation Policy available on our website. </p>  <p class=\"MsoNormal\" style=\"margin: 0in 0in 10pt;\"> </p></font></p></div><div><h4>Activity</h4><p>Introduction to Hand Planing #10.003.0000</p></div><div><h4>Classes</h4><p><ul><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=169&_not_show_links=1\">Introduction to Hand Planing</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=202&_not_show_links=1\">Introduction to Hand Planing</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=266&_not_show_links=1\">Introduction to Hand Planing</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=1158&_not_show_links=1\">Introduction to Hand Planing</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=1295&_not_show_links=1\">Introduction to Hand Planing</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=1347&_not_show_links=1\">Introduction to Hand Planing</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=1525&_not_show_links=1\">Introduction to Hand Planing</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=1453&_not_show_links=1\">Introduction to Hand Planing</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=1663&_not_show_links=1\">Introduction to Hand Planing</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=1706&_not_show_links=1\">Introduction to Hand Planing</a></li></ul></p></div>"
+          }
+        ],
+        "componentInUrlAdr": {},
+        "activityStartDate": "2012-12-15T15:30:00",
+        "volumePriceIncluded": false,
+        "contactName": "",
+        "sorCreateUserId": "",
+        "localTimeZoneId": "America/New_York",
+        "socialMedia": [],
+        "donationUrlAdr": "",
+        "activenetTopGraphic": {},
+        "assetReferences": [],
+        "market": {},
+        "assetAttributes": [
+          {
+            "attribute": {
+              "tagId": 58737,
+              "attributeValue": "All",
+              "attributeType": "Gender"
+            }
+          },
+          {
+            "attribute": {
+              "tagId": 58731,
+              "attributeValue": "Adult",
+              "attributeType": "Age group"
+            }
+          }
+        ],
+        "timezoneAbb": "",
+        "assetMediaTypes": [
+          {
+            "sequence": 1,
+            "mediaType": {
+              "mediaTypeName": "Class",
+              "mediaTypeDsc": "",
+              "mediaTypeId": 28
+            }
+          },
+          {
+            "sequence": 2,
+            "mediaType": {
+              "mediaTypeName": "Events",
+              "mediaTypeDsc": "",
+              "mediaTypeId": 204
+            }
+          }
+        ],
+        "evergreenAssetFlag": "false",
+        "authorName": "",
+        "registrantSearchUrlAdr": "",
+        "modifiedDate": "2019-07-01T04:08:06",
+        "timezoneName": "",
+        "showContact": "false",
+        "assetParentAsset": {},
+        "assetStatus": {
+          "assetStatusId": "2",
+          "assetStatusName": "VISIBLE"
+        },
+        "regReqMaxAge": null,
+        "currencyCd": "",
+        "resultsUrlAdr": "",
+        "assetImages": [],
+        "sourceSystem": {
+          "sourceSystemName": "ActiveNet",
+          "legacyGuid": "fb27c928-54db-4ecd-b42f-482fc3c8681f",
+          "id": "7",
+          "affiliate": "true"
+        },
+        "assetGuid": "12601e6f-e183-4782-8821-61416e595485",
+        "timezone": "UTC",
+        "evergreenParentAsset": {},
+        "assetTags": [
+          {
+            "tag": {
+              "tagId": 1402505,
+              "tagName": "10.003.0000",
+              "tagDescription": "MISCELLANEOUS"
+            }
+          },
+          {
+            "tag": {
+              "tagId": 32475,
+              "tagName": "false",
+              "tagDescription": "activeadvantage"
+            }
+          },
+          {
+            "tag": {
+              "tagId": 58737,
+              "tagName": "All",
+              "tagDescription": "Gender"
+            }
+          },
+          {
+            "tag": {
+              "tagId": 2430654,
+              "tagName": "http://www.active.com/philadelphia-pa/classes/introduction-to-hand-planing-2012",
+              "tagDescription": "canonicalurl"
+            }
+          },
+          {
+            "tag": {
+              "tagId": 58731,
+              "tagName": "Adult",
+              "tagDescription": "Age group"
+            }
+          }
+        ],
+        "assetRootAsset": {},
+        "assetPopularity": {
+          "searches": 2,
+          "createdAt": 1687348800,
+          "clickTypes": {
+            "otherActive": 5,
+            "registration": 0,
+            "nonActive": 0
+          },
+          "clicks": 5,
+          "rank": 335,
+          "results": 289,
+          "views": 21,
+          "A3Rank": 148
+        },
+        "preferredUrlAdr": "",
+        "logoUrlAdr": "",
+        "assetPrices": [],
+        "detailPageTemplateId": "",
+        "assetComponents": [
+          {
+            "sequence": null,
+            "activityStartDate": "2012-12-15T15:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "5ee8ad97-6b83-45cd-aa1d-21e866159725",
+            "activityEndDate": "2050-01-12T22:30:00",
+            "assetName": "Introduction to Hand Planing"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2017-11-26T15:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "5df469e0-9c05-44b4-8fe5-bad07687bba1",
+            "activityEndDate": "2017-11-26T22:30:00",
+            "assetName": "Introduction to Hand Planing"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2018-01-07T15:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "08aed650-7b88-4638-9273-820b5ffc503a",
+            "activityEndDate": "2018-01-07T22:30:00",
+            "assetName": "Introduction to Hand Planing"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2018-03-27T22:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "3b42b1e5-cd5e-4c27-b1f8-0176ad75da56",
+            "activityEndDate": "2018-03-29T01:30:00",
+            "assetName": "Introduction to Hand Planing"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2018-08-19T14:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "dd5095f7-854e-4d6b-8153-d2ffd9655741",
+            "activityEndDate": "2018-08-19T21:30:00",
+            "assetName": "Introduction to Hand Planing"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2018-10-23T22:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "dda4c4bd-5d5c-4163-b1e6-bb16481ad986",
+            "activityEndDate": "2018-10-25T01:30:00",
+            "assetName": "Introduction to Hand Planing"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2019-04-09T22:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "e793f255-cc1e-4907-ab75-441ff015b367",
+            "activityEndDate": "2019-04-11T01:30:00",
+            "assetName": "Introduction to Hand Planing"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2019-06-30T14:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "46978710-a5d4-4370-9087-3bb37ff47dac",
+            "activityEndDate": "2019-06-30T21:30:00",
+            "assetName": "Introduction to Hand Planing"
+          }
+        ],
+        "teamUrlAdr": "",
+        "sorId": "",
+        "place": {
+          "placeDsc": "",
+          "placeUrlAdr": "",
+          "showPlaceName": true,
+          "timezone": "America/New_York",
+          "postalCode": "19128",
+          "latitude": "40.034113",
+          "directionsTxt": "",
+          "addressLine2Txt": "",
+          "geoPoint": {
+            "lon": "-75.234213",
+            "lat": "40.034113"
+          },
+          "addressLine1Txt": "4901 Umbria Street",
+          "stateProvinceCode": "PA",
+          "localityName": "",
+          "cityName": "Philadelphia",
+          "timezoneOffset": -5,
+          "timezoneDST": 1,
+          "countryCode": "USA",
+          "dma": {
+            "dmaId": 504,
+            "dmaName": "Philadelphia"
+          },
+          "countryName": "United States",
+          "placeGuid": "e8f3bc6d-7df9-4f32-9095-4e5ddc50d612",
+          "placeName": "Philadelphia Woodworks",
+          "longitude": "-75.234213"
+        },
+        "overrideSeourlFlag": false,
+        "assetCategories": [
+          {
+            "sequence": 1,
+            "category": {
+              "categoryName": "Classes",
+              "categoryId": 13,
+              "categoryTaxonomy": "Event/Classes"
+            }
+          }
+        ],
+        "urlAdr": "http://www.active.com/philadelphia-pa/classes/introduction-to-hand-planing-2012?cmp=39-35-tfunderburk92",
+        "retryCounter": 2,
+        "assetInterests": [],
+        "assetDsc": "",
+        "contactTxt": "",
+        "alternateName": "",
+        "regReqMinAge": 18,
+        "createdDate": "2012-10-25T16:45:33",
+        "assetMetaInterests": [],
+        "salesStartDate": "2019-06-20T11:58:59",
+        "homePageUrlAdr": "",
+        "assetQuantity": {
+          "waitlistCnt": "",
+          "soldCnt": "47",
+          "createdDate": "2017-01-10T17:45:34",
+          "availableCnt": "-41",
+          "modifiedDate": "2019-07-01T04:08:04",
+          "capacityNb": "6",
+          "waitlistCapacityNb": ""
+        },
+        "organization": {
+          "primaryContactName": "",
+          "organizationName": "Philadelphia Woodworks, LLC",
+          "addressPostalCd": "19128",
+          "sourceSystemId": 7,
+          "imageUrlAdr": "",
+          "addressCityName": "Philadelphia",
+          "eventCount": 441,
+          "organizationGuid": "4bbb38e3-4dea-4c92-9d72-3ce70ab51cbe",
+          "primaryContactPhone": "2673315880",
+          "addressLine2Txt": "",
+          "shortDsc": "",
+          "addressLine1Txt": "4901 Umbria Street",
+          "addressLocalityName": "",
+          "organizationDsc": "",
+          "organizationUrlAdr": "",
+          "hideOrganizationContact": false,
+          "isDeleted": false,
+          "a3EventCount": 469,
+          "addressStateProvinceCode": "PA",
+          "sourceSystemGuid": "fb27c928-54db-4ecd-b42f-482fc3c8681f",
+          "addressCountryCd": "USA",
+          "showOrganizationName": true,
+          "fax": "2673315892"
+        },
+        "assetName": "Introduction to Hand Planing",
+        "contactPhone": "",
+        "searchScore": 1.9599999,
+        "assetVersion": 334,
+        "salesStatus": "registration-unavailable"
+      },
+      {
+        "assetTopics": [
+          {
+            "sequence": 1,
+            "topic": {
+              "topicId": 30,
+              "topicName": "Other endurance",
+              "topicTaxonomy": "Endurance/Other endurance"
+            }
+          }
+        ],
+        "salesEndDate": "2023-11-30T20:02:00",
+        "regReqGenderCd": "",
+        "registrationUrlAdr": "http://www.active.com/lubbock-tx/other-endurance/races/usaora-2013",
+        "retryDate": "2015-08-07T11:36:33",
+        "evergreenAssets": [],
+        "assetSeoUrls": [
+          {
+            "seoSystemName": "as3",
+            "statusCode": true,
+            "urlAdr": "http://www.active.com/lubbock-tx/other-endurance/races/usaora-2013?cmp=39-35-tfunderburk92"
+          }
+        ],
+        "publishDate": null,
+        "assetChannels": [],
+        "sorCreateDtm": null,
+        "sponsoredContent": {},
+        "dynamicPriceIncluded": false,
+        "localeCd": "",
+        "activityRecurrences": [
+          {
+            "frequencyInterval": 1,
+            "activityStartDate": "2013-11-07T06:00:00",
+            "activityExclusions": [],
+            "monthWeekInterval": null,
+            "activityEndDate": "2023-12-01T05:59:59",
+            "days": "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",
+            "startTime": "",
+            "endTime": "",
+            "frequency": {
+              "frequencyName": "Daily"
+            }
+          }
+        ],
+        "assetLegacyData": {
+          "maxTeamNb": "",
+          "assetTypeId": "dfaa997a-d591-44ca-9fb7-bf4a4c8984f1",
+          "costAmt": null,
+          "typeName": "",
+          "uploadSearchUrlAdr": "",
+          "avgUserRatingTxt": "",
+          "trackbackUrl": "http://www.active.com/page/event_details_fn.htm?event_id=E-0062K9Z2?cmp=39-35-tfunderburk92",
+          "seoUrl": "http://www.active.com/not-specified/lubbock-tx/usaora-2013?cmp=39-35-tfunderburk92",
+          "eventCategories": "",
+          "estParticipantNb": "",
+          "participationCriteriaTxt": "",
+          "priceExtensionTxt": "",
+          "isSearchable": false,
+          "onlineMembership": false,
+          "minGuaranteedGameNb": "",
+          "searchWeight": "1.0000",
+          "userCommentTxt": "",
+          "substitutionUrl": "E-0062K9Z2",
+          "onlineDonation": false,
+          "genderRequirementTxt": "",
+          "createdDate": "2013-11-07T20:02:07",
+          "onlineMembershipCostAmt": null,
+          "authorName": "",
+          "onlineRegistration": true,
+          "modifiedDate": "2015-08-07T15:26:20",
+          "multipleStartDate": false
+        },
+        "activityEndDate": "2023-12-01T05:59:59",
+        "assetDeals": [],
+        "assetServiceHostName": "as-app01.active.tan",
+        "childIndex": null,
+        "assetDescriptions": [
+          {
+            "descriptionType": {
+              "descriptionTypeName": "Standard",
+              "descriptionTypeId": 6
+            },
+            "description": "<h4>Event details and schedule</h4><p></p>"
+          }
+        ],
+        "componentInUrlAdr": {},
+        "activityStartDate": "2013-11-07T06:00:00",
+        "volumePriceIncluded": false,
+        "contactName": "",
+        "sorCreateUserId": "",
+        "localTimeZoneId": "US/Central",
+        "socialMedia": [],
+        "donationUrlAdr": "",
+        "activenetTopGraphic": {},
+        "assetReferences": [],
+        "market": {},
+        "assetAttributes": [],
+        "timezoneAbb": "",
+        "assetMediaTypes": [
+          {
+            "sequence": 1,
+            "mediaType": {
+              "mediaTypeName": "Event",
+              "mediaTypeDsc": "",
+              "mediaTypeId": 2
+            }
+          },
+          {
+            "sequence": 2,
+            "mediaType": {
+              "mediaTypeName": "Membership",
+              "mediaTypeDsc": "",
+              "mediaTypeId": 31
+            }
+          },
+          {
+            "sequence": 3,
+            "mediaType": {
+              "mediaTypeName": "Other",
+              "mediaTypeDsc": "",
+              "mediaTypeId": 8
+            }
+          }
+        ],
+        "evergreenAssetFlag": "false",
+        "authorName": "",
+        "registrantSearchUrlAdr": "https://myevents.active.com/search/registration-search.faces?e=5617354&a=283441702",
+        "modifiedDate": "2015-08-10T01:56:46",
+        "timezoneName": "",
+        "showContact": "false",
+        "assetParentAsset": {},
+        "assetStatus": {
+          "assetStatusId": "2",
+          "assetStatusName": "VISIBLE"
+        },
+        "regReqMaxAge": null,
+        "currencyCd": "USD",
+        "resultsUrlAdr": "",
+        "assetImages": [
+          {
+            "imageName": "",
+            "imageAltTxt": "",
+            "imageCaptionTxt": "",
+            "linkTarget": "",
+            "imageUrlAdr": "http://www.active.com/images/events/hotrace.gif",
+            "linkUrl": "",
+            "imageType": "IMAGE"
+          }
+        ],
+        "sourceSystem": {
+          "sourceSystemName": "ActiveWorks Endurance",
+          "legacyGuid": "dfaa997a-d591-44ca-9fb7-bf4a4c8984f1",
+          "id": "9",
+          "affiliate": "true"
+        },
+        "assetGuid": "eb5a1f57-8747-4653-a715-b2b8b4ffe74f",
+        "timezone": "UTC",
+        "evergreenParentAsset": {},
+        "assetTags": [
+          {
+            "tag": {
+              "tagId": 125937,
+              "tagName": "false",
+              "tagDescription": "usatsanctioned"
+            }
+          },
+          {
+            "tag": {
+              "tagId": 32308,
+              "tagName": "true",
+              "tagDescription": "activeadvantage"
+            }
+          }
+        ],
+        "assetRootAsset": {},
+        "assetPopularity": {
+          "searches": 0,
+          "createdAt": 1687348800,
+          "clickTypes": {
+            "otherActive": 76,
+            "registration": 15,
+            "nonActive": 196
+          },
+          "clicks": 287,
+          "rank": 1292,
+          "results": 314,
+          "views": 12,
+          "A3Rank": 559
+        },
+        "preferredUrlAdr": "",
+        "logoUrlAdr": "http://www.active.com/images/events/hotrace.gif",
+        "assetPrices": [],
+        "detailPageTemplateId": "",
+        "assetComponents": [
+          {
+            "sequence": 1,
+            "activityStartDate": "2013-11-07T06:00:00",
+            "assetSeoUrls": [],
+            "assetGuid": "bc2405a5-47d0-4675-a86b-99f8a60c5146",
+            "activityEndDate": "2023-12-01T05:59:59",
+            "assetName": "Other-Annual - Individual"
+          },
+          {
+            "sequence": 2,
+            "activityStartDate": "2013-11-07T06:00:00",
+            "assetSeoUrls": [],
+            "assetGuid": "f7bf3e14-2b84-471f-9b29-0070c79100a5",
+            "activityEndDate": "2023-12-01T05:59:59",
+            "assetName": "Family Membership - Family"
+          },
+          {
+            "sequence": 3,
+            "activityStartDate": "2013-11-07T06:00:00",
+            "assetSeoUrls": [],
+            "assetGuid": "166d8977-3aa7-4789-b615-2cec6600cbb3",
+            "activityEndDate": "2023-12-01T05:59:59",
+            "assetName": "Kids - Kids"
+          },
+          {
+            "sequence": 4,
+            "activityStartDate": "2013-11-07T06:00:00",
+            "assetSeoUrls": [],
+            "assetGuid": "39105502-da9c-47e7-9385-ff867b29c275",
+            "activityEndDate": "2023-12-01T05:59:59",
+            "assetName": "Corporate - Corporate"
+          }
+        ],
+        "teamUrlAdr": "",
+        "sorId": "",
+        "place": {
+          "placeDsc": "",
+          "placeUrlAdr": "",
+          "timezone": "America/Chicago",
+          "postalCode": "79493",
+          "latitude": "33.548200",
+          "directionsTxt": "",
+          "addressLine2Txt": "",
+          "geoPoint": {
+            "lon": "-101.883100",
+            "lat": "33.548200"
+          },
+          "addressLine1Txt": "PO BOX 93726",
+          "stateProvinceCode": "TX",
+          "localityName": "",
+          "cityName": "Lubbock",
+          "timezoneOffset": -6,
+          "timezoneDST": 1,
+          "countryCode": "USA",
+          "dma": {
+            "dmaId": 651,
+            "dmaName": "Lubbock"
+          },
+          "countryName": "United States",
+          "placeGuid": "5ea96c9f-aec7-4fcb-bb01-927d08f0ec24",
+          "placeName": "Lubbock",
+          "longitude": "-101.883100"
+        },
+        "overrideSeourlFlag": false,
+        "assetCategories": [
+          {
+            "sequence": 3,
+            "category": {
+              "categoryName": "Event",
+              "categoryId": 2,
+              "categoryTaxonomy": "Event"
+            }
+          },
+          {
+            "sequence": 1,
+            "category": {
+              "categoryName": "Races",
+              "categoryId": 22,
+              "categoryTaxonomy": "Event/Races"
+            }
+          },
+          {
+            "sequence": 2,
+            "category": {
+              "categoryName": "Memberships",
+              "categoryId": 45,
+              "categoryTaxonomy": "Product/Memberships"
+            }
+          }
+        ],
+        "urlAdr": "http://www.active.com/lubbock-tx/other-endurance/races/usaora-2013?cmp=39-35-tfunderburk92",
+        "retryCounter": 2,
+        "assetInterests": [],
+        "assetDsc": "",
+        "contactTxt": "",
+        "alternateName": "",
+        "regReqMinAge": null,
+        "createdDate": "2013-11-07T20:02:06",
+        "assetMetaInterests": [
+          {
+            "sequence": 2,
+            "metaInterest": {
+              "metaInterestId": 2,
+              "metaInterestTaxonomy": "Family",
+              "metaInterestName": "Family"
+            }
+          },
+          {
+            "sequence": 3,
+            "metaInterest": {
+              "metaInterestId": 14,
+              "metaInterestTaxonomy": "Adventure Race",
+              "metaInterestName": "Adventure Race"
+            }
+          },
+          {
+            "sequence": 1,
+            "metaInterest": {
+              "metaInterestId": 18,
+              "metaInterestTaxonomy": "Obstacle",
+              "metaInterestName": "Obstacle"
+            }
+          }
+        ],
+        "salesStartDate": "2013-11-07T20:02:00",
+        "homePageUrlAdr": "http://obstacleusa.com/index.php",
+        "assetQuantity": {},
+        "organization": {
+          "primaryContactName": "",
+          "organizationName": "BSLT Triathlon Inc",
+          "addressPostalCd": "79493-3726",
+          "sourceSystemId": 9,
+          "imageUrlAdr": "",
+          "addressCityName": "Lubbock",
+          "eventCount": 5,
+          "organizationGuid": "b06991ee-0a76-4042-9695-c65a3b4c03f6",
+          "primaryContactPhone": "806-438-0893",
+          "addressLine2Txt": "",
+          "shortDsc": "",
+          "addressLine1Txt": "PO Box 93726",
+          "addressLocalityName": "",
+          "organizationDsc": "",
+          "organizationUrlAdr": "",
+          "hideOrganizationContact": false,
+          "isDeleted": false,
+          "a3EventCount": 64,
+          "addressStateProvinceCode": "TX",
+          "sourceSystemGuid": "dfaa997a-d591-44ca-9fb7-bf4a4c8984f1",
+          "addressCountryCd": "USA",
+          "showOrganizationName": true,
+          "fax": "8068292407"
+        },
+        "assetName": "USAORA",
+        "contactPhone": "n/a",
+        "searchScore": 1.9599999,
+        "assetVersion": 337,
+        "salesStatus": "registration-open"
+      },
+      {
+        "assetTopics": [
+          {
+            "sequence": 1,
+            "topic": {
+              "topicId": 60,
+              "topicName": "Golf",
+              "topicTaxonomy": "Sports/Golf"
+            }
+          }
+        ],
+        "salesEndDate": "2050-12-31T00:00:00",
+        "regReqGenderCd": "",
+        "registrationUrlAdr": "http://www.active.com/elkhorn-ne/golf/golf-lessons/100-00-gift-card-2013",
+        "retryDate": "2015-08-05T08:22:24",
+        "evergreenAssets": [],
+        "assetSeoUrls": [
+          {
+            "seoSystemName": "as3",
+            "statusCode": true,
+            "urlAdr": "http://www.active.com/elkhorn-ne/golf/golf-lessons/100-00-gift-card-2013?cmp=39-35-tfunderburk92"
+          }
+        ],
+        "publishDate": null,
+        "assetChannels": [
+          {
+            "sequence": 1,
+            "channel": {
+              "channelDsc": "Golf",
+              "channelName": "Golf",
+              "channelId": 1011
+            }
+          }
+        ],
+        "sorCreateDtm": null,
+        "sponsoredContent": {},
+        "dynamicPriceIncluded": false,
+        "localeCd": "en_US",
+        "activityRecurrences": [
+          {
+            "frequencyInterval": 1,
+            "activityStartDate": "2013-10-17T00:00:00",
+            "activityExclusions": [],
+            "monthWeekInterval": null,
+            "activityEndDate": "2050-12-31T00:00:00",
+            "days": "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",
+            "startTime": "",
+            "endTime": "",
+            "frequency": {
+              "frequencyName": "Daily"
+            }
+          }
+        ],
+        "assetLegacyData": {
+          "maxTeamNb": "",
+          "assetTypeId": "",
+          "costAmt": null,
+          "typeName": "",
+          "uploadSearchUrlAdr": "",
+          "avgUserRatingTxt": "",
+          "trackbackUrl": "",
+          "seoUrl": "",
+          "eventCategories": "",
+          "estParticipantNb": "",
+          "participationCriteriaTxt": "",
+          "priceExtensionTxt": "",
+          "isSearchable": false,
+          "onlineMembership": null,
+          "minGuaranteedGameNb": "",
+          "searchWeight": "",
+          "userCommentTxt": "",
+          "substitutionUrl": "",
+          "onlineDonation": null,
+          "genderRequirementTxt": "",
+          "createdDate": "2013-11-07T09:05:21",
+          "onlineMembershipCostAmt": null,
+          "authorName": "",
+          "onlineRegistration": true,
+          "modifiedDate": "2014-02-25T09:58:48",
+          "multipleStartDate": null
+        },
+        "activityEndDate": "2050-12-31T00:00:00",
+        "assetDeals": [],
+        "assetServiceHostName": "as-app03.active.tan",
+        "childIndex": null,
+        "assetDescriptions": [
+          {
+            "descriptionType": {
+              "descriptionTypeName": "Standard",
+              "descriptionTypeId": 6
+            },
+            "description": "$100.00 purchased on-line thru our website"
+          }
+        ],
+        "componentInUrlAdr": {},
+        "activityStartDate": "2013-10-17T00:00:00",
+        "volumePriceIncluded": false,
+        "contactName": "",
+        "sorCreateUserId": "",
+        "localTimeZoneId": "",
+        "socialMedia": [],
+        "donationUrlAdr": "",
+        "activenetTopGraphic": {},
+        "assetReferences": [],
+        "market": {
+          "marketName": "camps-any",
+          "marketId": 1
+        },
+        "assetAttributes": [
+          {
+            "attribute": {
+              "tagId": 58745,
+              "attributeValue": "Overnight",
+              "attributeType": "Camp type"
+            }
+          }
+        ],
+        "timezoneAbb": "",
+        "assetMediaTypes": [],
+        "evergreenAssetFlag": "false",
+        "authorName": "",
+        "registrantSearchUrlAdr": "",
+        "modifiedDate": "2015-08-05T12:12:24",
+        "timezoneName": "",
+        "showContact": "false",
+        "assetParentAsset": {},
+        "assetStatus": {
+          "assetStatusId": "2",
+          "assetStatusName": "VISIBLE"
+        },
+        "regReqMaxAge": null,
+        "currencyCd": "USD",
+        "resultsUrlAdr": "",
+        "assetImages": [],
+        "assetRegistrableStatus": "reg-open",
+        "sourceSystem": {
+          "sourceSystemName": "AW Camps 3.0",
+          "legacyGuid": "89208dba-f535-4950-880a-34a6888a184c",
+          "id": "98",
+          "affiliate": "false"
+        },
+        "assetGuid": "779742f7-f8cb-4ed7-b427-ffc1931daa0f",
+        "timezone": "US/Central",
+        "evergreenParentAsset": {},
+        "assetTags": [
+          {
+            "tag": {
+              "tagId": 398188,
+              "tagName": "true",
+              "tagDescription": "playgolfamerica"
+            }
+          },
+          {
+            "tag": {
+              "tagId": 58745,
+              "tagName": "Overnight",
+              "tagDescription": "Camp type"
+            }
+          }
+        ],
+        "assetRootAsset": {},
+        "assetPopularity": {
+          "searches": 3,
+          "createdAt": 1687348800,
+          "clickTypes": {
+            "otherActive": 10,
+            "registration": 0,
+            "nonActive": 0
+          },
+          "clicks": 10,
+          "rank": 341,
+          "results": 292,
+          "views": 4,
+          "A3Rank": 151
+        },
+        "preferredUrlAdr": "",
+        "logoUrlAdr": "",
+        "assetPrices": [
+          {
+            "effectiveFromVolume": 0,
+            "priceAmt": 108.94,
+            "priceType": "",
+            "maxPriceAmt": null,
+            "effectiveUntilDate": null,
+            "minPriceAmt": null,
+            "effectiveToVolume": 0,
+            "dynamicPricing": false,
+            "volumePricing": false
+          }
+        ],
+        "detailPageTemplateId": "",
+        "assetComponents": [],
+        "teamUrlAdr": "",
+        "sorId": "",
+        "place": {
+          "placeDsc": "",
+          "placeUrlAdr": "",
+          "showPlaceName": true,
+          "timezone": "America/Chicago",
+          "postalCode": "68022",
+          "latitude": "41.293303",
+          "directionsTxt": "",
+          "addressLine2Txt": "",
+          "geoPoint": {
+            "lon": "-96.229247",
+            "lat": "41.293303"
+          },
+          "addressLine1Txt": "3825 N. 202nd St.",
+          "stateProvinceCode": "NE",
+          "localityName": "",
+          "cityName": "Elkhorn",
+          "timezoneOffset": -6,
+          "timezoneDST": 1,
+          "countryCode": "USA",
+          "dma": {
+            "dmaId": 652,
+            "dmaName": "Omaha"
+          },
+          "countryName": "United States",
+          "placeGuid": "0191fb46-6dd3-4e0c-8506-bbfb6e95b699",
+          "placeName": "Indian Creek Golf Club",
+          "longitude": "-96.229247"
+        },
+        "overrideSeourlFlag": false,
+        "assetCategories": [
+          {
+            "sequence": 1,
+            "category": {
+              "categoryName": "Lessons",
+              "categoryId": 19,
+              "categoryTaxonomy": "Event/Lessons"
+            }
+          }
+        ],
+        "urlAdr": "http://www.active.com/elkhorn-ne/golf/golf-lessons/100-00-gift-card-2013?cmp=39-35-tfunderburk92",
+        "retryCounter": 3,
+        "assetInterests": [],
+        "assetDsc": "",
+        "contactTxt": "",
+        "alternateName": "",
+        "regReqMinAge": null,
+        "createdDate": "2013-10-17T13:10:36",
+        "assetMetaInterests": [],
+        "salesStartDate": "2013-10-16T00:00:00",
+        "homePageUrlAdr": "",
+        "assetQuantity": {
+          "waitlistCnt": "",
+          "soldCnt": "0",
+          "createdDate": "2013-10-17T13:10:36",
+          "availableCnt": "0",
+          "modifiedDate": "2015-08-01T19:40:36",
+          "capacityNb": "0",
+          "waitlistCapacityNb": ""
+        },
+        "organization": {
+          "primaryContactName": "",
+          "organizationName": "The Club at Indian Creek",
+          "addressPostalCd": "68022-2791",
+          "sourceSystemId": 11,
+          "imageUrlAdr": "",
+          "addressCityName": "Elkhorn",
+          "eventCount": 13,
+          "organizationGuid": "676a5792-c046-491d-9746-101bae2393ae",
+          "primaryContactPhone": "402.289.0900 x5",
+          "addressLine2Txt": "",
+          "shortDsc": "",
+          "addressLine1Txt": "3825 N. 202nd St",
+          "addressLocalityName": "",
+          "organizationDsc": "<p><span style=\"color: rgb(102, 102, 102); font-family: arial, helvetica, clean, sans-serif; font-size: 12.09px; background-color: rgb(255, 255, 255);\">Home of the Indian Creek Invitational, arguably Nebraska&rsquo;s finest annual amateur golf tournament and the &ldquo;Pinnacle Bank Championship&rdquo; a Korn&nbsp;Tour Event. Omaha&rsquo;s Premier 27-Hole Public Golf Course thrills golfers with 37 acres of fairway, 80+ well-placed bunkers and 15 holes with the threat of water.&nbsp;If you have any questions please feel free to email James Rolls, PGA at jamesr@golfatindiancreek.com or call the golf shop 402.289.0900 ext 5. Let&rsquo;s all play more golf this year!</span></p> ",
+          "organizationUrlAdr": "",
+          "hideOrganizationContact": false,
+          "isDeleted": false,
+          "a3EventCount": 72,
+          "addressStateProvinceCode": "NE",
+          "sourceSystemGuid": "2b22b4e6-5aa4-44d7-bf06-f7a71f9fa8a6",
+          "addressCountryCd": "USA",
+          "showOrganizationName": true,
+          "fax": ""
+        },
+        "assetName": "$100.00 Gift Card",
+        "contactPhone": "",
+        "searchScore": 1.9599999,
+        "assetVersion": 336,
+        "salesStatus": "registration-open"
+      },
+      {
+        "assetTopics": [
+          {
+            "sequence": 1,
+            "topic": {
+              "topicId": 60,
+              "topicName": "Golf",
+              "topicTaxonomy": "Sports/Golf"
+            }
+          }
+        ],
+        "salesEndDate": "2050-12-31T00:00:00",
+        "regReqGenderCd": "",
+        "registrationUrlAdr": "http://www.active.com/elkhorn-ne/golf/golf-lessons/200-00-gift-card-2013",
+        "retryDate": "2015-08-05T08:22:34",
+        "evergreenAssets": [],
+        "assetSeoUrls": [
+          {
+            "seoSystemName": "as3",
+            "statusCode": true,
+            "urlAdr": "http://www.active.com/elkhorn-ne/golf/golf-lessons/200-00-gift-card-2013?cmp=39-35-tfunderburk92"
+          }
+        ],
+        "publishDate": null,
+        "assetChannels": [
+          {
+            "sequence": 1,
+            "channel": {
+              "channelDsc": "Golf",
+              "channelName": "Golf",
+              "channelId": 1011
+            }
+          }
+        ],
+        "sorCreateDtm": null,
+        "sponsoredContent": {},
+        "dynamicPriceIncluded": false,
+        "localeCd": "en_US",
+        "activityRecurrences": [
+          {
+            "frequencyInterval": 1,
+            "activityStartDate": "2013-10-17T00:00:00",
+            "activityExclusions": [],
+            "monthWeekInterval": null,
+            "activityEndDate": "2050-12-31T00:00:00",
+            "days": "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",
+            "startTime": "",
+            "endTime": "",
+            "frequency": {
+              "frequencyName": "Daily"
+            }
+          }
+        ],
+        "assetLegacyData": {
+          "maxTeamNb": "",
+          "assetTypeId": "",
+          "costAmt": null,
+          "typeName": "",
+          "uploadSearchUrlAdr": "",
+          "avgUserRatingTxt": "",
+          "trackbackUrl": "",
+          "seoUrl": "",
+          "eventCategories": "",
+          "estParticipantNb": "",
+          "participationCriteriaTxt": "",
+          "priceExtensionTxt": "",
+          "isSearchable": false,
+          "onlineMembership": null,
+          "minGuaranteedGameNb": "",
+          "searchWeight": "",
+          "userCommentTxt": "",
+          "substitutionUrl": "",
+          "onlineDonation": null,
+          "genderRequirementTxt": "",
+          "createdDate": "2013-11-13T02:00:23",
+          "onlineMembershipCostAmt": null,
+          "authorName": "",
+          "onlineRegistration": true,
+          "modifiedDate": "2014-02-25T09:58:49",
+          "multipleStartDate": null
+        },
+        "activityEndDate": "2050-12-31T00:00:00",
+        "assetDeals": [],
+        "assetServiceHostName": "as-app02.active.tan",
+        "childIndex": null,
+        "assetDescriptions": [
+          {
+            "descriptionType": {
+              "descriptionTypeName": "Standard",
+              "descriptionTypeId": 6
+            },
+            "description": "$200.00 purchased on-line thru our website"
+          }
+        ],
+        "componentInUrlAdr": {},
+        "activityStartDate": "2013-10-17T00:00:00",
+        "volumePriceIncluded": false,
+        "contactName": "",
+        "sorCreateUserId": "",
+        "localTimeZoneId": "",
+        "socialMedia": [],
+        "donationUrlAdr": "",
+        "activenetTopGraphic": {},
+        "assetReferences": [],
+        "market": {
+          "marketName": "camps-any",
+          "marketId": 1
+        },
+        "assetAttributes": [
+          {
+            "attribute": {
+              "tagId": 58745,
+              "attributeValue": "Overnight",
+              "attributeType": "Camp type"
+            }
+          }
+        ],
+        "timezoneAbb": "",
+        "assetMediaTypes": [],
+        "evergreenAssetFlag": "false",
+        "authorName": "",
+        "registrantSearchUrlAdr": "",
+        "modifiedDate": "2015-08-05T12:12:35",
+        "timezoneName": "",
+        "showContact": "false",
+        "assetParentAsset": {},
+        "assetStatus": {
+          "assetStatusId": "2",
+          "assetStatusName": "VISIBLE"
+        },
+        "regReqMaxAge": null,
+        "currencyCd": "USD",
+        "resultsUrlAdr": "",
+        "assetImages": [],
+        "assetRegistrableStatus": "reg-open",
+        "sourceSystem": {
+          "sourceSystemName": "AW Camps 3.0",
+          "legacyGuid": "89208dba-f535-4950-880a-34a6888a184c",
+          "id": "98",
+          "affiliate": "false"
+        },
+        "assetGuid": "21711bca-d3d0-4f07-9c28-f342e9a71b75",
+        "timezone": "US/Central",
+        "evergreenParentAsset": {},
+        "assetTags": [
+          {
+            "tag": {
+              "tagId": 58745,
+              "tagName": "Overnight",
+              "tagDescription": "Camp type"
+            }
+          },
+          {
+            "tag": {
+              "tagId": 398188,
+              "tagName": "true",
+              "tagDescription": "playgolfamerica"
+            }
+          }
+        ],
+        "assetRootAsset": {},
+        "assetPopularity": {
+          "searches": 0,
+          "createdAt": 1687348800,
+          "clickTypes": {
+            "otherActive": 14,
+            "registration": 0,
+            "nonActive": 0
+          },
+          "clicks": 14,
+          "rank": 337,
+          "results": 291,
+          "views": 4,
+          "A3Rank": 149
+        },
+        "preferredUrlAdr": "",
+        "logoUrlAdr": "",
+        "assetPrices": [
+          {
+            "effectiveFromVolume": 0,
+            "priceAmt": 212.89,
+            "priceType": "",
+            "maxPriceAmt": null,
+            "effectiveUntilDate": null,
+            "minPriceAmt": null,
+            "effectiveToVolume": 0,
+            "dynamicPricing": false,
+            "volumePricing": false
+          }
+        ],
+        "detailPageTemplateId": "",
+        "assetComponents": [],
+        "teamUrlAdr": "",
+        "sorId": "",
+        "place": {
+          "placeDsc": "",
+          "placeUrlAdr": "",
+          "showPlaceName": true,
+          "timezone": "America/Chicago",
+          "postalCode": "68022",
+          "latitude": "41.293303",
+          "directionsTxt": "",
+          "addressLine2Txt": "",
+          "geoPoint": {
+            "lon": "-96.229247",
+            "lat": "41.293303"
+          },
+          "addressLine1Txt": "3825 N. 202nd St.",
+          "stateProvinceCode": "NE",
+          "localityName": "",
+          "cityName": "Elkhorn",
+          "timezoneOffset": -6,
+          "timezoneDST": 1,
+          "countryCode": "USA",
+          "dma": {
+            "dmaId": 652,
+            "dmaName": "Omaha"
+          },
+          "countryName": "United States",
+          "placeGuid": "0191fb46-6dd3-4e0c-8506-bbfb6e95b699",
+          "placeName": "Indian Creek Golf Club",
+          "longitude": "-96.229247"
+        },
+        "overrideSeourlFlag": false,
+        "assetCategories": [
+          {
+            "sequence": 1,
+            "category": {
+              "categoryName": "Lessons",
+              "categoryId": 19,
+              "categoryTaxonomy": "Event/Lessons"
+            }
+          }
+        ],
+        "urlAdr": "http://www.active.com/elkhorn-ne/golf/golf-lessons/200-00-gift-card-2013?cmp=39-35-tfunderburk92",
+        "retryCounter": 3,
+        "assetInterests": [],
+        "assetDsc": "",
+        "contactTxt": "",
+        "alternateName": "",
+        "regReqMinAge": null,
+        "createdDate": "2013-10-17T13:19:56",
+        "assetMetaInterests": [],
+        "salesStartDate": "2013-10-16T00:00:00",
+        "homePageUrlAdr": "",
+        "assetQuantity": {
+          "waitlistCnt": "",
+          "soldCnt": "0",
+          "createdDate": "2013-10-17T13:19:56",
+          "availableCnt": "0",
+          "modifiedDate": "2015-08-01T20:15:14",
+          "capacityNb": "0",
+          "waitlistCapacityNb": ""
+        },
+        "organization": {
+          "primaryContactName": "",
+          "organizationName": "The Club at Indian Creek",
+          "addressPostalCd": "68022-2791",
+          "sourceSystemId": 11,
+          "imageUrlAdr": "",
+          "addressCityName": "Elkhorn",
+          "eventCount": 13,
+          "organizationGuid": "676a5792-c046-491d-9746-101bae2393ae",
+          "primaryContactPhone": "402.289.0900 x5",
+          "addressLine2Txt": "",
+          "shortDsc": "",
+          "addressLine1Txt": "3825 N. 202nd St",
+          "addressLocalityName": "",
+          "organizationDsc": "<p><span style=\"color: rgb(102, 102, 102); font-family: arial, helvetica, clean, sans-serif; font-size: 12.09px; background-color: rgb(255, 255, 255);\">Home of the Indian Creek Invitational, arguably Nebraska&rsquo;s finest annual amateur golf tournament and the &ldquo;Pinnacle Bank Championship&rdquo; a Korn&nbsp;Tour Event. Omaha&rsquo;s Premier 27-Hole Public Golf Course thrills golfers with 37 acres of fairway, 80+ well-placed bunkers and 15 holes with the threat of water.&nbsp;If you have any questions please feel free to email James Rolls, PGA at jamesr@golfatindiancreek.com or call the golf shop 402.289.0900 ext 5. Let&rsquo;s all play more golf this year!</span></p> ",
+          "organizationUrlAdr": "",
+          "hideOrganizationContact": false,
+          "isDeleted": false,
+          "a3EventCount": 72,
+          "addressStateProvinceCode": "NE",
+          "sourceSystemGuid": "2b22b4e6-5aa4-44d7-bf06-f7a71f9fa8a6",
+          "addressCountryCd": "USA",
+          "showOrganizationName": true,
+          "fax": ""
+        },
+        "assetName": "$200.00 Gift Card",
+        "contactPhone": "",
+        "searchScore": 1.9599999,
+        "assetVersion": 335,
+        "salesStatus": "registration-open"
+      },
+      {
+        "assetTopics": [],
+        "salesEndDate": "2099-03-23T23:59:00",
+        "regReqGenderCd": "",
+        "registrationUrlAdr": "http://www.active.com/lexington-ky/camps/burnamwood-camp-and-conference-center-2016",
+        "retryDate": "2018-04-10T14:14:13",
+        "evergreenAssets": [],
+        "assetSeoUrls": [
+          {
+            "seoSystemName": "as3",
+            "statusCode": true,
+            "urlAdr": "http://www.active.com/lexington-ky/camps/burnamwood-camp-and-conference-center-2016?cmp=39-35-tfunderburk92"
+          }
+        ],
+        "publishDate": null,
+        "assetChannels": [
+          {
+            "sequence": 1,
+            "channel": {
+              "channelDsc": "",
+              "channelName": "Other",
+              "channelId": 1253
+            }
+          }
+        ],
+        "sorCreateDtm": null,
+        "sponsoredContent": {},
+        "dynamicPriceIncluded": false,
+        "localeCd": "",
+        "activityRecurrences": [
+          {
+            "frequencyInterval": 1,
+            "activityStartDate": "2016-03-24T00:00:00",
+            "activityExclusions": [],
+            "monthWeekInterval": null,
+            "activityEndDate": "2099-03-23T23:59:59",
+            "days": "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",
+            "startTime": "",
+            "endTime": "",
+            "frequency": {
+              "frequencyName": "Daily"
+            }
+          }
+        ],
+        "assetLegacyData": {
+          "maxTeamNb": "",
+          "assetTypeId": "2b22b4e6-5aa4-44d7-bf06-f7a71f9fa8a6",
+          "costAmt": null,
+          "typeName": "",
+          "uploadSearchUrlAdr": "",
+          "avgUserRatingTxt": "",
+          "trackbackUrl": "http://www.active.com/page/camps_details_fn.htm?agency_id=579af327-0b05-4016-b38f-f94159463e1d?cmp=39-35-tfunderburk92",
+          "seoUrl": "http://www.active.com/other-camp/lexington-ky/burnamwood-camp-and-conference-center?cmp=39-35-tfunderburk92",
+          "eventCategories": "",
+          "estParticipantNb": "",
+          "participationCriteriaTxt": "",
+          "priceExtensionTxt": "",
+          "isSearchable": false,
+          "onlineMembership": false,
+          "minGuaranteedGameNb": "",
+          "searchWeight": "1.0000",
+          "userCommentTxt": "",
+          "substitutionUrl": "579af327-0b05-4016-b38f-f94159463e1d",
+          "onlineDonation": false,
+          "genderRequirementTxt": "",
+          "createdDate": "2014-10-01T16:51:29",
+          "onlineMembershipCostAmt": null,
+          "authorName": "",
+          "onlineRegistration": true,
+          "modifiedDate": "2018-04-10T18:03:31",
+          "multipleStartDate": false
+        },
+        "activityEndDate": "2099-03-23T23:59:59",
+        "assetDeals": [],
+        "assetServiceHostName": "as-app03.active.tan",
+        "childIndex": null,
+        "assetDescriptions": [
+          {
+            "descriptionType": {
+              "descriptionTypeName": "summary",
+              "descriptionTypeId": 4
+            },
+            "description": "<p>Presbyterian Camp and Conference Center of the Transylvania Presbytery of Kentucky</p>"
+          }
+        ],
+        "componentInUrlAdr": {},
+        "activityStartDate": "2016-03-24T00:00:00",
+        "volumePriceIncluded": false,
+        "contactName": "",
+        "sorCreateUserId": "",
+        "localTimeZoneId": "",
+        "socialMedia": [],
+        "donationUrlAdr": "",
+        "activenetTopGraphic": {},
+        "assetReferences": [],
+        "market": {
+          "marketName": "camps-any",
+          "marketId": 1
+        },
+        "assetAttributes": [],
+        "timezoneAbb": "",
+        "assetMediaTypes": [
+          {
+            "sequence": 1,
+            "mediaType": {
+              "mediaTypeName": "Camp",
+              "mediaTypeDsc": "",
+              "mediaTypeId": 1
+            }
+          }
+        ],
+        "evergreenAssetFlag": "false",
+        "authorName": "",
+        "registrantSearchUrlAdr": "",
+        "modifiedDate": "2018-04-10T18:04:15",
+        "timezoneName": "",
+        "showContact": "false",
+        "assetParentAsset": {},
+        "assetStatus": {
+          "assetStatusId": "2",
+          "assetStatusName": "VISIBLE"
+        },
+        "regReqMaxAge": null,
+        "currencyCd": "",
+        "resultsUrlAdr": "",
+        "assetImages": [
+          {
+            "imageName": "image1",
+            "imageAltTxt": "",
+            "imageCaptionTxt": "",
+            "linkTarget": "",
+            "imageUrlAdr": "https://photos-images.active.com/file/3/1/original/414bd6b9-2812-42b9-ab44-cf682ef8c9be.png",
+            "linkUrl": "",
+            "imageType": "IMAGE"
+          }
+        ],
+        "assetRegistrableStatus": "reg-open",
+        "sourceSystem": {
+          "sourceSystemName": "ActiveWorks Camps",
+          "legacyGuid": "2b22b4e6-5aa4-44d7-bf06-f7a71f9fa8a6",
+          "id": "11",
+          "affiliate": "true"
+        },
+        "assetGuid": "579af327-0b05-4016-b38f-f94159463e1d",
+        "timezone": "",
+        "evergreenParentAsset": {},
+        "assetTags": [
+          {
+            "tag": {
+              "tagId": 2200084,
+              "tagName": "http://www.active.com/lexington-ky/camps/burnamwood-camp-and-conference-center-2016",
+              "tagDescription": "canonicalurl"
+            }
+          }
+        ],
+        "assetRootAsset": {},
+        "assetPopularity": {
+          "searches": 0,
+          "createdAt": 1687348800,
+          "clickTypes": {
+            "otherActive": 0,
+            "registration": 0,
+            "nonActive": 0
+          },
+          "clicks": 0,
+          "rank": 295,
+          "results": 295,
+          "views": 0,
+          "A3Rank": 131
+        },
+        "preferredUrlAdr": "",
+        "logoUrlAdr": "https://photos-images.active.com/file/3/1/original/414bd6b9-2812-42b9-ab44-cf682ef8c9be.png",
+        "assetPrices": [],
+        "detailPageTemplateId": "",
+        "assetComponents": [
+          {
+            "sequence": null,
+            "activityStartDate": "2016-03-24T00:00:00",
+            "assetSeoUrls": [],
+            "assetGuid": "a14a3207-a53e-4269-85b1-06e5cf9f469c",
+            "activityEndDate": "2099-03-23T23:59:59",
+            "assetName": "2018 Retreats"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2016-03-24T00:00:00",
+            "assetSeoUrls": [],
+            "assetGuid": "e8b823d0-96b5-48e6-bb74-7b4f6b22b51c",
+            "activityEndDate": "2099-03-23T23:59:59",
+            "assetName": "2018 Summer Camps"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2016-03-24T00:00:00",
+            "assetSeoUrls": [],
+            "assetGuid": "a6c80c15-21ab-4d79-bbdc-b644adb120b6",
+            "activityEndDate": "2099-03-23T23:59:59",
+            "assetName": "Donations"
+          }
+        ],
+        "teamUrlAdr": "",
+        "sorId": "",
+        "place": {
+          "placeDsc": "",
+          "placeUrlAdr": "",
+          "timezone": "America/Kentucky/Louisville",
+          "postalCode": "40523",
+          "latitude": "38.046356",
+          "directionsTxt": "",
+          "addressLine2Txt": "",
+          "geoPoint": {
+            "lon": "-84.497021",
+            "lat": "38.046356"
+          },
+          "addressLine1Txt": "PO Box 23580",
+          "stateProvinceCode": "KY",
+          "localityName": "",
+          "cityName": "Lexington",
+          "timezoneOffset": -5,
+          "timezoneDST": 1,
+          "countryCode": "USA",
+          "dma": {
+            "dmaId": 541,
+            "dmaName": "Lexington"
+          },
+          "countryName": "United States",
+          "placeGuid": "e14239b1-4ed6-4874-8443-35a6397aaebd",
+          "placeName": "Burnamwood Camp and Conference Center",
+          "longitude": "-84.497021"
+        },
+        "overrideSeourlFlag": false,
+        "assetCategories": [
+          {
+            "sequence": 1,
+            "category": {
+              "categoryName": "Camps",
+              "categoryId": 11,
+              "categoryTaxonomy": "Event/Camps"
+            }
+          }
+        ],
+        "urlAdr": "http://www.active.com/lexington-ky/camps/burnamwood-camp-and-conference-center-2016?cmp=39-35-tfunderburk92",
+        "retryCounter": 3,
+        "assetInterests": [],
+        "assetDsc": "",
+        "contactTxt": "",
+        "alternateName": "",
+        "regReqMinAge": null,
+        "createdDate": "2014-10-01T16:51:29",
+        "assetMetaInterests": [],
+        "salesStartDate": "2016-03-23T13:32:38",
+        "homePageUrlAdr": "",
+        "assetQuantity": {},
+        "organization": {
+          "primaryContactName": "",
+          "organizationName": " ",
+          "addressPostalCd": "",
+          "sourceSystemId": 11,
+          "imageUrlAdr": "",
+          "addressCityName": "",
+          "eventCount": 0,
+          "organizationGuid": "6fccf993-6267-426d-a56d-d3ca4be40ddf",
+          "primaryContactPhone": "",
+          "addressLine2Txt": "",
+          "shortDsc": "",
+          "addressLine1Txt": "",
+          "addressLocalityName": "",
+          "organizationDsc": "<p>Presbyterian Camp and Conference Center of the Transylvania Presbytery of Kentucky</p> ",
+          "organizationUrlAdr": "",
+          "hideOrganizationContact": false,
+          "isDeleted": false,
+          "a3EventCount": 0,
+          "addressStateProvinceCode": "",
+          "sourceSystemGuid": "2b22b4e6-5aa4-44d7-bf06-f7a71f9fa8a6",
+          "addressCountryCd": "USA",
+          "showOrganizationName": false,
+          "fax": ""
+        },
+        "assetName": "Burnamwood Camp and Conference Center",
+        "contactPhone": "859-494-9113",
+        "searchScore": 1.9599999,
+        "assetVersion": 335,
+        "salesStatus": "registration-open"
+      },
+      {
+        "assetTopics": [
+          {
+            "sequence": 1,
+            "topic": {
+              "topicId": 25,
+              "topicName": "Cycling",
+              "topicTaxonomy": "Endurance/Cycling"
+            }
+          }
+        ],
+        "salesEndDate": "2040-12-02T06:00:00",
+        "regReqGenderCd": "",
+        "registrationUrlAdr": "http://www.active.com/houma-la/cycling/bcc-membership-2021-2014",
+        "retryDate": "2021-02-09T16:08:06",
+        "evergreenAssets": [],
+        "assetSeoUrls": [
+          {
+            "seoSystemName": "as3",
+            "statusCode": true,
+            "urlAdr": "http://www.active.com/houma-la/cycling/bcc-membership-2021-2014?cmp=39-35-tfunderburk92"
+          }
+        ],
+        "publishDate": null,
+        "assetChannels": [
+          {
+            "sequence": 1,
+            "channel": {
+              "channelDsc": "Cycling",
+              "channelName": "Cycling",
+              "channelId": 1005
+            }
+          }
+        ],
+        "sorCreateDtm": null,
+        "sponsoredContent": {},
+        "dynamicPriceIncluded": false,
+        "localeCd": "",
+        "activityRecurrences": [
+          {
+            "frequencyInterval": 1,
+            "activityStartDate": "2014-01-01T06:00:00",
+            "activityExclusions": [],
+            "monthWeekInterval": null,
+            "activityEndDate": "2040-01-02T05:59:59",
+            "days": "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",
+            "startTime": "",
+            "endTime": "",
+            "frequency": {
+              "frequencyName": "Daily"
+            }
+          }
+        ],
+        "assetLegacyData": {
+          "maxTeamNb": "",
+          "assetTypeId": "dfaa997a-d591-44ca-9fb7-bf4a4c8984f1",
+          "costAmt": null,
+          "typeName": "",
+          "uploadSearchUrlAdr": "",
+          "avgUserRatingTxt": "",
+          "trackbackUrl": "",
+          "seoUrl": "http://www.active.com/cycling/houma-la/bcc-membership-2014?cmp=39-35-tfunderburk92",
+          "eventCategories": "",
+          "estParticipantNb": "",
+          "participationCriteriaTxt": "",
+          "priceExtensionTxt": "",
+          "isSearchable": false,
+          "onlineMembership": null,
+          "minGuaranteedGameNb": "",
+          "searchWeight": "",
+          "userCommentTxt": "",
+          "substitutionUrl": "E-0075MQ90",
+          "onlineDonation": null,
+          "genderRequirementTxt": "",
+          "createdDate": "2014-01-25T18:07:36",
+          "onlineMembershipCostAmt": null,
+          "authorName": "",
+          "onlineRegistration": true,
+          "modifiedDate": "2021-02-09T15:58:03",
+          "multipleStartDate": null
+        },
+        "activityEndDate": "2040-01-02T05:59:59",
+        "assetDeals": [],
+        "assetServiceHostName": "prod-asset-102w",
+        "childIndex": null,
+        "assetDescriptions": [
+          {
+            "descriptionType": {
+              "descriptionTypeName": "Standard",
+              "descriptionTypeId": 6
+            },
+            "description": "<h4>Event details and schedule</h4><p></p>"
+          }
+        ],
+        "componentInUrlAdr": {},
+        "activityStartDate": "2014-01-01T06:00:00",
+        "volumePriceIncluded": false,
+        "contactName": "",
+        "sorCreateUserId": "",
+        "localTimeZoneId": "US/Central",
+        "socialMedia": [],
+        "donationUrlAdr": "",
+        "activenetTopGraphic": {},
+        "assetReferences": [],
+        "market": {
+          "marketName": "endurance-cycling",
+          "marketId": 5
+        },
+        "assetAttributes": [],
+        "timezoneAbb": "",
+        "assetMediaTypes": [
+          {
+            "sequence": 1,
+            "mediaType": {
+              "mediaTypeName": "Event",
+              "mediaTypeDsc": "",
+              "mediaTypeId": 2
+            }
+          },
+          {
+            "sequence": 2,
+            "mediaType": {
+              "mediaTypeName": "Other",
+              "mediaTypeDsc": "",
+              "mediaTypeId": 8
+            }
+          }
+        ],
+        "evergreenAssetFlag": "false",
+        "authorName": "",
+        "registrantSearchUrlAdr": "",
+        "modifiedDate": "2021-03-17T07:08:42",
+        "timezoneName": "",
+        "showContact": "false",
+        "assetParentAsset": {},
+        "assetStatus": {
+          "assetStatusId": "2",
+          "assetStatusName": "VISIBLE"
+        },
+        "regReqMaxAge": null,
+        "currencyCd": "USD",
+        "resultsUrlAdr": "",
+        "assetImages": [
+          {
+            "imageName": "",
+            "imageAltTxt": "",
+            "imageCaptionTxt": "",
+            "linkTarget": "",
+            "imageUrlAdr": "http://www.active.com/images/events/hotrace.gif",
+            "linkUrl": "",
+            "imageType": "IMAGE"
+          }
+        ],
+        "assetRegistrableStatus": "reg-open",
+        "sourceSystem": {
+          "sourceSystemName": "ActiveWorks Endurance",
+          "legacyGuid": "dfaa997a-d591-44ca-9fb7-bf4a4c8984f1",
+          "id": "9",
+          "affiliate": "true"
+        },
+        "assetGuid": "188080ae-b679-4aaa-ae4e-c44d2bdeecbf",
+        "timezone": "UTC",
+        "evergreenParentAsset": {},
+        "assetTags": [
+          {
+            "tag": {
+              "tagId": 32308,
+              "tagName": "true",
+              "tagDescription": "activeadvantage"
+            }
+          },
+          {
+            "tag": {
+              "tagId": 125937,
+              "tagName": "false",
+              "tagDescription": "usatsanctioned"
+            }
+          },
+          {
+            "tag": {
+              "tagId": 16495870,
+              "tagName": "http://www.active.com/houma-la/cycling/bcc-membership-2021-2014",
+              "tagDescription": "canonicalurl"
+            }
+          }
+        ],
+        "assetRootAsset": {},
+        "assetPopularity": {
+          "searches": 3,
+          "createdAt": 1687348800,
+          "clickTypes": {
+            "otherActive": 225,
+            "registration": 6,
+            "nonActive": 752
+          },
+          "clicks": 983,
+          "rank": 3339,
+          "results": 315,
+          "views": 18,
+          "A3Rank": 910
+        },
+        "preferredUrlAdr": "",
+        "logoUrlAdr": "http://www.active.com/images/events/hotrace.gif",
+        "assetPrices": [],
+        "detailPageTemplateId": "",
+        "assetComponents": [
+          {
+            "sequence": 1,
+            "activityStartDate": "2014-01-01T06:00:00",
+            "assetSeoUrls": [],
+            "assetGuid": "635c55f8-941e-4a28-beee-e47fefd49f8a",
+            "activityEndDate": "2040-01-02T05:59:59",
+            "assetName": "Cycling-New / Renew Membersip - Individual Membership"
+          },
+          {
+            "sequence": 2,
+            "activityStartDate": "2014-01-01T06:00:00",
+            "assetSeoUrls": [],
+            "assetGuid": "1ec55027-9031-4082-8c35-b2a6cd504f42",
+            "activityEndDate": "2040-01-02T05:59:59",
+            "assetName": "Cycling-New / Renew Membersip - Family Membership"
+          }
+        ],
+        "teamUrlAdr": "",
+        "sorId": "",
+        "place": {
+          "placeDsc": "",
+          "placeUrlAdr": "",
+          "timezone": "America/Chicago",
+          "postalCode": "70361",
+          "latitude": "29.595849",
+          "directionsTxt": "",
+          "addressLine2Txt": " ",
+          "geoPoint": {
+            "lon": "-90.719367",
+            "lat": "29.595849"
+          },
+          "addressLine1Txt": "P.O. Box 2613",
+          "stateProvinceCode": "LA",
+          "localityName": "",
+          "cityName": "Houma",
+          "timezoneOffset": -6,
+          "timezoneDST": 1,
+          "countryCode": "USA",
+          "dma": {
+            "dmaId": 622,
+            "dmaName": "New Orleans"
+          },
+          "countryName": "United States",
+          "placeGuid": "973cf37e-5440-4692-8951-d42a7143e4ff",
+          "placeName": "Bayou Country Cyclists",
+          "longitude": "-90.719367"
+        },
+        "overrideSeourlFlag": false,
+        "assetCategories": [
+          {
+            "sequence": 1,
+            "category": {
+              "categoryName": "Event",
+              "categoryId": 2,
+              "categoryTaxonomy": "Event"
+            }
+          }
+        ],
+        "urlAdr": "http://www.active.com/houma-la/cycling/bcc-membership-2021-2014?cmp=39-35-tfunderburk92",
+        "retryCounter": 2,
+        "assetInterests": [],
+        "assetDsc": "",
+        "contactTxt": "",
+        "alternateName": "",
+        "regReqMinAge": null,
+        "createdDate": "2014-01-25T18:07:36",
+        "assetMetaInterests": [
+          {
+            "sequence": 1,
+            "metaInterest": {
+              "metaInterestId": 2,
+              "metaInterestTaxonomy": "Family",
+              "metaInterestName": "Family"
+            }
+          }
+        ],
+        "salesStartDate": "2014-12-02T06:00:00",
+        "homePageUrlAdr": "http://bccbike.org",
+        "assetQuantity": {},
+        "organization": {
+          "primaryContactName": "",
+          "organizationName": "Bayou Country Cyclists",
+          "addressPostalCd": "70361-2613",
+          "sourceSystemId": 9,
+          "imageUrlAdr": "",
+          "addressCityName": "Houma",
+          "eventCount": 1,
+          "organizationGuid": "661deaca-cd13-42e9-8ebd-54e9e8740dfb",
+          "primaryContactPhone": "985-447-8751",
+          "addressLine2Txt": "",
+          "shortDsc": "",
+          "addressLine1Txt": "PO Box 2613",
+          "addressLocalityName": "",
+          "organizationDsc": "",
+          "organizationUrlAdr": "",
+          "hideOrganizationContact": false,
+          "isDeleted": false,
+          "a3EventCount": 0,
+          "addressStateProvinceCode": "LA",
+          "sourceSystemGuid": "dfaa997a-d591-44ca-9fb7-bf4a4c8984f1",
+          "addressCountryCd": "USA",
+          "showOrganizationName": true,
+          "fax": ""
+        },
+        "assetName": "BCC Membership 2021",
+        "contactPhone": "",
+        "searchScore": 1.9599999,
+        "assetVersion": 335,
+        "salesStatus": "registration-open"
+      },
+      {
+        "assetTopics": [
+          {
+            "sequence": 1,
+            "topic": {
+              "topicId": 74,
+              "topicName": "Soccer",
+              "topicTaxonomy": "Sports/Soccer"
+            }
+          },
+          {
+            "sequence": 2,
+            "topic": {
+              "topicId": 59,
+              "topicName": "Futsal",
+              "topicTaxonomy": "Sports/Futsal"
+            }
+          }
+        ],
+        "salesEndDate": "2030-12-31T23:59:00",
+        "regReqGenderCd": "",
+        "registrationUrlAdr": "http://www.active.com/naperville-il/futsal/futsal-camps/usa-platinum-360-members-only-limited-offer-click-here-for-more-details-2021",
+        "retryDate": "2021-05-21T10:07:44",
+        "evergreenAssets": [],
+        "assetSeoUrls": [
+          {
+            "seoSystemName": "as3",
+            "statusCode": true,
+            "urlAdr": "http://www.active.com/naperville-il/futsal/futsal-camps/usa-platinum-360-members-only-limited-offer-click-here-for-more-details-2021?cmp=39-35-tfunderburk92"
+          }
+        ],
+        "publishDate": null,
+        "assetChannels": [
+          {
+            "sequence": 1,
+            "channel": {
+              "channelDsc": "Soccer",
+              "channelName": "Soccer",
+              "channelId": 1022
+            }
+          },
+          {
+            "sequence": 2,
+            "channel": {
+              "channelDsc": "Football",
+              "channelName": "Football",
+              "channelId": 1010
+            }
+          }
+        ],
+        "sorCreateDtm": null,
+        "sponsoredContent": {},
+        "dynamicPriceIncluded": false,
+        "localeCd": "en_US",
+        "activityRecurrences": [
+          {
+            "frequencyInterval": 1,
+            "activityStartDate": "2021-03-01T00:00:00",
+            "activityExclusions": [],
+            "monthWeekInterval": null,
+            "activityEndDate": "2035-12-31T23:59:00",
+            "days": "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",
+            "startTime": "",
+            "endTime": "",
+            "frequency": {
+              "frequencyName": "Daily"
+            }
+          }
+        ],
+        "assetLegacyData": {
+          "maxTeamNb": "",
+          "assetTypeId": "",
+          "costAmt": null,
+          "typeName": "",
+          "uploadSearchUrlAdr": "",
+          "avgUserRatingTxt": "",
+          "trackbackUrl": "",
+          "seoUrl": "",
+          "eventCategories": "",
+          "estParticipantNb": "",
+          "participationCriteriaTxt": "",
+          "priceExtensionTxt": "",
+          "isSearchable": false,
+          "onlineMembership": null,
+          "minGuaranteedGameNb": "",
+          "searchWeight": "",
+          "userCommentTxt": "",
+          "substitutionUrl": "",
+          "onlineDonation": null,
+          "genderRequirementTxt": "",
+          "createdDate": "2014-03-31T04:48:55",
+          "onlineMembershipCostAmt": null,
+          "authorName": "",
+          "onlineRegistration": true,
+          "modifiedDate": "2021-04-18T02:03:29",
+          "multipleStartDate": null
+        },
+        "activityEndDate": "2035-12-31T23:59:00",
+        "assetDeals": [],
+        "assetServiceHostName": "prod-asset-103w",
+        "childIndex": null,
+        "assetDescriptions": [
+          {
+            "descriptionType": {
+              "descriptionTypeName": "Standard",
+              "descriptionTypeId": 6
+            },
+            "description": "Platinum 360 USA Elite Soccer Skills Training   Venue:  Cost: $2,500 per student   Value: $5000+ Benefits:  • 20 hours of 1 on1 professional personal training at a value of $2400.  • 1-year unlimited group technical skill training and games at a value of $2600.  The Platinum 360 is offered for a limited time only and to a limited number of participants.   Areas of focus:  • First touch  • Exploding into space  • Dynamic play  • High-level ball control  • Skills under pressure  • Possession & Distribution  • Finishing  • Competitive games played   GUIDELINES: - The time and dates for professional personal training are to be decided upon the convenience of U.S.A and the participating parent. - U.S.A reserves the right to terminate or discontinue any part of or complete session at any time. - Either party is required to give at least 24 hours’ notice should there be any changes in schedule. - The package does not include U.S.A Elite Select Camp, Group Camps, and Semi-Private training. - The package expires one (1) year from the date of purchase. - There will be no refund. - Dates and times to be scheduled upon completion of registration. - U.S.A expects all registered participants to complete the training in its entirety. - Parents of participants must sign a waiver for his/ her child in order to participate in the U.S.A program.  Universal Soccer Academy - Waiver, Release & Hold Harmless Agreement: I hereby give permission for Universal Soccer & Futsal Academy to secure proper treatment for my Son/Daughter. In the case of emergency, I do hold harmless, Universal Soccer Academy, it’s officers and employees, agents and contractors from any responsibilities for any and all injuries or death which may result from my participation in any programs offered by Universal Soccer Academy. I hereby agree to assume all the liability and risk from participating in any Soccer Programs offered"
+          }
+        ],
+        "componentInUrlAdr": {},
+        "activityStartDate": "2021-03-01T00:00:00",
+        "volumePriceIncluded": false,
+        "contactName": "",
+        "sorCreateUserId": "",
+        "localTimeZoneId": "",
+        "socialMedia": [],
+        "donationUrlAdr": "",
+        "activenetTopGraphic": {},
+        "assetReferences": [],
+        "market": {
+          "marketName": "camps-any",
+          "marketId": 1
+        },
+        "assetAttributes": [
+          {
+            "attribute": {
+              "tagId": 58744,
+              "attributeValue": "Day",
+              "attributeType": "Camp type"
+            }
+          }
+        ],
+        "timezoneAbb": "",
+        "assetMediaTypes": [
+          {
+            "sequence": 1,
+            "mediaType": {
+              "mediaTypeName": "Camp",
+              "mediaTypeDsc": "",
+              "mediaTypeId": 1
+            }
+          }
+        ],
+        "evergreenAssetFlag": "false",
+        "authorName": "",
+        "registrantSearchUrlAdr": "",
+        "modifiedDate": "2021-05-21T09:57:44",
+        "timezoneName": "",
+        "showContact": "false",
+        "assetParentAsset": {},
+        "assetStatus": {
+          "assetStatusId": "2",
+          "assetStatusName": "VISIBLE"
+        },
+        "regReqMaxAge": null,
+        "currencyCd": "USD",
+        "resultsUrlAdr": "",
+        "assetImages": [],
+        "assetRegistrableStatus": "reg-open",
+        "sourceSystem": {
+          "sourceSystemName": "AW Camps 3.0",
+          "legacyGuid": "89208dba-f535-4950-880a-34a6888a184c",
+          "id": "98",
+          "affiliate": "false"
+        },
+        "assetGuid": "b98c4747-d88b-4f28-b214-b07a1e724f38",
+        "timezone": "US/Central",
+        "evergreenParentAsset": {},
+        "assetTags": [
+          {
+            "tag": {
+              "tagId": 17775695,
+              "tagName": "http://www.activekids.com/naperville-il/futsal/futsal-camps/usa-platinum-360-members-only-limited-offer-click-here-for-more-details-2021",
+              "tagDescription": "canonicalurl"
+            }
+          },
+          {
+            "tag": {
+              "tagId": 58744,
+              "tagName": "Day",
+              "tagDescription": "Camp type"
+            }
+          },
+          {
+            "tag": {
+              "tagId": 32308,
+              "tagName": "true",
+              "tagDescription": "activeadvantage"
+            }
+          }
+        ],
+        "assetRootAsset": {},
+        "assetPopularity": {
+          "searches": 1,
+          "createdAt": 1687348800,
+          "clickTypes": {
+            "otherActive": 1,
+            "registration": 0,
+            "nonActive": 3
+          },
+          "clicks": 4,
+          "rank": 343,
+          "results": 318,
+          "views": 8,
+          "A3Rank": 152
+        },
+        "preferredUrlAdr": "",
+        "logoUrlAdr": "https://photos-images.active.com/file/3/1/original/998ffaa0-87e0-42ce-9c0f-544442bf9e47.jpg",
+        "assetPrices": [
+          {
+            "effectiveFromVolume": 0,
+            "priceAmt": 2500,
+            "priceType": "",
+            "maxPriceAmt": null,
+            "effectiveUntilDate": null,
+            "minPriceAmt": null,
+            "effectiveToVolume": 0,
+            "dynamicPricing": false,
+            "volumePricing": false
+          }
+        ],
+        "detailPageTemplateId": "",
+        "assetComponents": [
+          {
+            "sequence": 1,
+            "activityStartDate": "2021-03-01T00:00:00",
+            "assetSeoUrls": [],
+            "assetGuid": "55102fc6-2984-451f-9b96-4194660424f9",
+            "activityEndDate": "2035-12-31T23:59:00",
+            "assetName": "Platinum 360"
+          }
+        ],
+        "teamUrlAdr": "",
+        "sorId": "",
+        "place": {
+          "placeDsc": "",
+          "placeUrlAdr": "",
+          "showPlaceName": true,
+          "timezone": "America/Chicago",
+          "postalCode": "60564",
+          "latitude": "41.711164",
+          "directionsTxt": "",
+          "addressLine2Txt": "",
+          "geoPoint": {
+            "lon": "-88.203494",
+            "lat": "41.711164"
+          },
+          "addressLine1Txt": "2863 West 95th Street",
+          "stateProvinceCode": "IL",
+          "localityName": "",
+          "cityName": "Naperville",
+          "timezoneOffset": -6,
+          "timezoneDST": 1,
+          "countryCode": "USA",
+          "dma": {
+            "dmaId": 602,
+            "dmaName": "Chicago"
+          },
+          "countryName": "United States",
+          "placeGuid": "dbb7057a-cc9d-4117-a9ff-8f8715349080",
+          "placeName": "Universal Soccer & Futsal Academy",
+          "longitude": "-88.203494"
+        },
+        "overrideSeourlFlag": false,
+        "assetCategories": [
+          {
+            "sequence": 1,
+            "category": {
+              "categoryName": "Camps",
+              "categoryId": 11,
+              "categoryTaxonomy": "Event/Camps"
+            }
+          }
+        ],
+        "urlAdr": "http://www.active.com/naperville-il/futsal/futsal-camps/usa-platinum-360-members-only-limited-offer-click-here-for-more-details-2021?cmp=39-35-tfunderburk92",
+        "retryCounter": 2,
+        "assetInterests": [],
+        "assetDsc": "",
+        "contactTxt": "",
+        "alternateName": "",
+        "regReqMinAge": null,
+        "createdDate": "2014-03-31T04:48:55",
+        "assetMetaInterests": [
+          {
+            "sequence": 1,
+            "metaInterest": {
+              "metaInterestId": 4,
+              "metaInterestTaxonomy": "Kids",
+              "metaInterestName": "Kids"
+            }
+          }
+        ],
+        "salesStartDate": "2019-12-09T19:14:50",
+        "homePageUrlAdr": "http://www.universalsoccerpro.com/",
+        "assetQuantity": {
+          "waitlistCnt": "",
+          "soldCnt": "0",
+          "createdDate": "2014-03-31T04:48:55",
+          "availableCnt": "0",
+          "modifiedDate": "2021-04-18T02:03:29",
+          "capacityNb": "0",
+          "waitlistCapacityNb": ""
+        },
+        "organization": {
+          "primaryContactName": "",
+          "organizationName": "Universal Soccer & Futsal Academy",
+          "addressPostalCd": "60564-9005",
+          "sourceSystemId": 11,
+          "imageUrlAdr": "",
+          "addressCityName": "Naperville",
+          "eventCount": 15,
+          "organizationGuid": "6287d06f-7bcd-481a-8f3d-c3ad65768904",
+          "primaryContactPhone": "630-301-0351",
+          "addressLine2Txt": "Suite 143-131",
+          "shortDsc": "",
+          "addressLine1Txt": "2863 95TH ST",
+          "addressLocalityName": "",
+          "organizationDsc": "<p><span class=\"C-27\">Universal Soccer &amp; Futsal Academy offers personal development programs to all ages and skill level. USA is a Soccer and Futsal Ttraining Academy (play anywhere and train with us)</span></p>  <p>&nbsp;</p> ",
+          "organizationUrlAdr": "",
+          "hideOrganizationContact": false,
+          "isDeleted": false,
+          "a3EventCount": 315,
+          "addressStateProvinceCode": "IL",
+          "sourceSystemGuid": "2b22b4e6-5aa4-44d7-bf06-f7a71f9fa8a6",
+          "addressCountryCd": "USA",
+          "showOrganizationName": true,
+          "fax": ""
+        },
+        "assetName": "USA PLATINUM 360 - MEMBERS ONLY LIMITED OFFER! (Click here for more details.)",
+        "contactPhone": "630-301-0351",
+        "searchScore": 1.9599999,
+        "assetVersion": 335,
+        "salesStatus": "registration-open"
+      },
+      {
+        "assetTopics": [],
+        "salesEndDate": "2035-02-25T00:00:00",
+        "regReqGenderCd": "C",
+        "registrationUrlAdr": "http://www.active.com/colorado-springs-co/routine-critiques-2015",
+        "retryDate": "2020-01-22T01:33:44",
+        "evergreenAssets": [],
+        "assetSeoUrls": [
+          {
+            "seoSystemName": "as3",
+            "statusCode": true,
+            "urlAdr": "http://www.active.com/colorado-springs-co/routine-critiques-2015?cmp=39-35-tfunderburk92"
+          }
+        ],
+        "publishDate": null,
+        "assetChannels": [
+          {
+            "sequence": 1,
+            "channel": {
+              "channelDsc": "",
+              "channelName": "Community Services",
+              "channelId": 1208
+            }
+          }
+        ],
+        "sorCreateDtm": null,
+        "sponsoredContent": {},
+        "dynamicPriceIncluded": false,
+        "localeCd": "",
+        "activityRecurrences": [
+          {
+            "frequencyInterval": 1,
+            "activityStartDate": "2015-02-25T00:00:00",
+            "activityExclusions": [],
+            "monthWeekInterval": null,
+            "activityEndDate": "2035-02-25T00:00:00",
+            "days": "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",
+            "startTime": "",
+            "endTime": "",
+            "frequency": {
+              "frequencyName": "Daily"
+            }
+          }
+        ],
+        "assetLegacyData": {
+          "maxTeamNb": "",
+          "assetTypeId": "FB27C928-54DB-4ECD-B42F-482FC3C8681F",
+          "costAmt": null,
+          "typeName": "",
+          "uploadSearchUrlAdr": "",
+          "avgUserRatingTxt": "",
+          "trackbackUrl": "",
+          "seoUrl": "http://www.active.com/community-services-class/indianapolis-in/routine-critiques-2015?cmp=39-35-tfunderburk92",
+          "eventCategories": "",
+          "estParticipantNb": "",
+          "participationCriteriaTxt": "",
+          "priceExtensionTxt": "",
+          "isSearchable": false,
+          "onlineMembership": null,
+          "minGuaranteedGameNb": "",
+          "searchWeight": "1.0000",
+          "userCommentTxt": "",
+          "substitutionUrl": "usasynchro/registrationmain.sdi?source=showAsset.sdi&activity_id=1356",
+          "onlineDonation": null,
+          "genderRequirementTxt": "",
+          "createdDate": "2015-02-28T15:20:46",
+          "onlineMembershipCostAmt": null,
+          "authorName": "",
+          "onlineRegistration": true,
+          "modifiedDate": "2020-01-22T01:23:44",
+          "multipleStartDate": null
+        },
+        "activityEndDate": "2035-02-25T07:00:00",
+        "assetDeals": [],
+        "assetServiceHostName": "prod-asset-03w",
+        "childIndex": null,
+        "assetDescriptions": [
+          {
+            "descriptionType": {
+              "descriptionTypeName": "Standard",
+              "descriptionTypeId": 6
+            },
+            "description": "<div><h4>Event Sub-Category</h4><p>Routine Critiques</p></div><div><h4>Sessions</h4><p>0</p></div>"
+          }
+        ],
+        "componentInUrlAdr": {},
+        "activityStartDate": "2015-02-25T07:00:00",
+        "volumePriceIncluded": false,
+        "contactName": "",
+        "sorCreateUserId": "",
+        "localTimeZoneId": "America/Denver",
+        "socialMedia": [],
+        "donationUrlAdr": "",
+        "activenetTopGraphic": {},
+        "assetReferences": [],
+        "market": {},
+        "assetAttributes": [],
+        "timezoneAbb": "",
+        "assetMediaTypes": [
+          {
+            "sequence": 1,
+            "mediaType": {
+              "mediaTypeName": "Events",
+              "mediaTypeDsc": "",
+              "mediaTypeId": 204
+            }
+          },
+          {
+            "sequence": 2,
+            "mediaType": {
+              "mediaTypeName": "Class",
+              "mediaTypeDsc": "",
+              "mediaTypeId": 28
+            }
+          }
+        ],
+        "evergreenAssetFlag": "false",
+        "authorName": "",
+        "registrantSearchUrlAdr": "",
+        "modifiedDate": "2020-01-22T01:23:46",
+        "timezoneName": "",
+        "showContact": "false",
+        "assetParentAsset": {},
+        "assetStatus": {
+          "assetStatusId": "2",
+          "assetStatusName": "VISIBLE"
+        },
+        "regReqMaxAge": null,
+        "currencyCd": "",
+        "resultsUrlAdr": "",
+        "assetImages": [],
+        "assetRegistrableStatus": "reg-open",
+        "sourceSystem": {
+          "sourceSystemName": "ActiveNet",
+          "legacyGuid": "fb27c928-54db-4ecd-b42f-482fc3c8681f",
+          "id": "7",
+          "affiliate": "true"
+        },
+        "assetGuid": "2a36f2a3-c8f0-4cec-bafe-336a04f54025",
+        "timezone": "UTC",
+        "evergreenParentAsset": {},
+        "assetTags": [
+          {
+            "tag": {
+              "tagId": 4117578,
+              "tagName": "http://www.active.com/colorado-springs-co/routine-critiques-2015",
+              "tagDescription": "canonicalurl"
+            }
+          },
+          {
+            "tag": {
+              "tagId": 16735,
+              "tagName": "1452",
+              "tagDescription": "MISCELLANEOUS"
+            }
+          },
+          {
+            "tag": {
+              "tagId": 32308,
+              "tagName": "true",
+              "tagDescription": "activeadvantage"
+            }
+          }
+        ],
+        "assetRootAsset": {},
+        "assetPopularity": {
+          "searches": 0,
+          "clicks": 0,
+          "results": 5,
+          "A3Rank": 3,
+          "views": 0
+        },
+        "preferredUrlAdr": "",
+        "logoUrlAdr": "",
+        "assetPrices": [],
+        "detailPageTemplateId": "",
+        "assetComponents": [
+          {
+            "sequence": 1,
+            "activityStartDate": "2015-02-25T07:00:00",
+            "assetSeoUrls": [],
+            "assetGuid": "4d42702c-437d-41c0-b813-962fc30ed20d",
+            "activityEndDate": "2035-02-25T07:00:00",
+            "assetName": "Routine Critiques"
+          }
+        ],
+        "teamUrlAdr": "",
+        "sorId": "",
+        "place": {
+          "placeDsc": "",
+          "placeUrlAdr": "",
+          "showPlaceName": true,
+          "timezone": "America/Denver",
+          "postalCode": "80909",
+          "latitude": "38.839194",
+          "directionsTxt": "",
+          "addressLine2Txt": "",
+          "geoPoint": {
+            "lon": "-104.797894",
+            "lat": "38.839194"
+          },
+          "addressLine1Txt": "1 Olympic Plaza",
+          "stateProvinceCode": "CO",
+          "localityName": "",
+          "cityName": "Colorado Springs",
+          "timezoneOffset": -7,
+          "timezoneDST": 1,
+          "countryCode": "USA",
+          "dma": {
+            "dmaId": 752,
+            "dmaName": "Colorado Springs - Pueblo"
+          },
+          "countryName": "United States",
+          "placeGuid": "cb7014be-7c4b-415a-8b86-e818b9b85c17",
+          "placeName": "United States Synchronized Swimming",
+          "longitude": "-104.797894"
+        },
+        "overrideSeourlFlag": false,
+        "assetCategories": [],
+        "urlAdr": "http://www.active.com/colorado-springs-co/routine-critiques-2015?cmp=39-35-tfunderburk92",
+        "retryCounter": 2,
+        "assetInterests": [],
+        "assetDsc": "",
+        "contactTxt": "",
+        "alternateName": "",
+        "regReqMinAge": null,
+        "createdDate": "2015-02-28T15:20:46",
+        "assetMetaInterests": [],
+        "salesStartDate": "2015-02-24T00:00:00",
+        "homePageUrlAdr": "www.usasynchro.org",
+        "assetQuantity": {
+          "waitlistCnt": "",
+          "soldCnt": "9",
+          "createdDate": "2015-02-28T15:20:46",
+          "availableCnt": "-9",
+          "modifiedDate": "2020-01-22T01:23:44",
+          "capacityNb": "0",
+          "waitlistCapacityNb": ""
+        },
+        "organization": {
+          "primaryContactName": "",
+          "organizationName": "USA Synchro",
+          "addressPostalCd": "80909",
+          "sourceSystemId": 7,
+          "imageUrlAdr": "",
+          "addressCityName": "Colorado Springs",
+          "eventCount": 13,
+          "organizationGuid": "580f1505-b071-4a9d-b0db-50ce5c552c2f",
+          "primaryContactPhone": "7198662219",
+          "addressLine2Txt": "",
+          "shortDsc": "",
+          "addressLine1Txt": "1 Olympic Plaza",
+          "addressLocalityName": "",
+          "organizationDsc": "",
+          "organizationUrlAdr": "",
+          "hideOrganizationContact": true,
+          "isDeleted": false,
+          "a3EventCount": 111,
+          "addressStateProvinceCode": "CO",
+          "sourceSystemGuid": "fb27c928-54db-4ecd-b42f-482fc3c8681f",
+          "addressCountryCd": "USA",
+          "showOrganizationName": false,
+          "fax": ""
+        },
+        "assetName": "Routine Critiques",
+        "contactPhone": "",
+        "searchScore": 1.9599999,
+        "assetVersion": 2,
+        "salesStatus": "registration-open"
+      },
+      {
+        "assetTopics": [
+          {
+            "sequence": 1,
+            "topic": {
+              "topicId": 366,
+              "topicName": "Wood work",
+              "topicTaxonomy": "Recreation/Arts and crafts/Wood work"
+            }
+          }
+        ],
+        "salesEndDate": "2050-11-03T21:30:00",
+        "regReqGenderCd": "C",
+        "registrationUrlAdr": "http://www.active.com/philadelphia-pa/woodworking/classes/conquering-the-hand-router-fixed-base-2012",
+        "retryDate": "2023-06-20T20:50:13",
+        "evergreenAssets": [],
+        "assetSeoUrls": [
+          {
+            "seoSystemName": "as3",
+            "statusCode": true,
+            "urlAdr": "http://www.active.com/philadelphia-pa/woodworking/classes/conquering-the-hand-router-fixed-base-2012?cmp=39-35-tfunderburk92"
+          }
+        ],
+        "publishDate": null,
+        "assetChannels": [
+          {
+            "sequence": 1,
+            "channel": {
+              "channelDsc": "",
+              "channelName": "Community Services",
+              "channelId": 1208
+            }
+          }
+        ],
+        "sorCreateDtm": null,
+        "sponsoredContent": {},
+        "dynamicPriceIncluded": false,
+        "localeCd": "",
+        "activityRecurrences": [
+          {
+            "frequencyInterval": null,
+            "activityStartDate": "2012-09-25T00:00:00",
+            "activityExclusions": [
+              {
+                "exclusionStartDate": "2050-01-01T10:30:00",
+                "exclusionEndDate": "2050-01-01T16:30:00"
+              },
+              {
+                "exclusionStartDate": "2028-01-01T10:30:00",
+                "exclusionEndDate": "2028-01-01T16:30:00"
+              },
+              {
+                "exclusionStartDate": "2027-12-25T10:30:00",
+                "exclusionEndDate": "2027-12-25T16:30:00"
+              },
+              {
+                "exclusionStartDate": "2033-01-01T10:30:00",
+                "exclusionEndDate": "2033-01-01T16:30:00"
+              },
+              {
+                "exclusionStartDate": "2038-12-25T10:30:00",
+                "exclusionEndDate": "2038-12-25T16:30:00"
+              },
+              {
+                "exclusionStartDate": "2032-12-25T10:30:00",
+                "exclusionEndDate": "2032-12-25T16:30:00"
+              },
+              {
+                "exclusionStartDate": "2049-12-25T10:30:00",
+                "exclusionEndDate": "2049-12-25T16:30:00"
+              },
+              {
+                "exclusionStartDate": "2039-01-01T10:30:00",
+                "exclusionEndDate": "2039-01-01T16:30:00"
+              }
+            ],
+            "monthWeekInterval": null,
+            "activityEndDate": "2050-11-03T00:00:00",
+            "days": "Saturday",
+            "startTime": "10:30:00",
+            "endTime": "16:30:00",
+            "frequency": {
+              "frequencyName": "Weekly"
+            }
+          },
+          {
+            "frequencyInterval": null,
+            "activityStartDate": "2012-09-25T00:00:00",
+            "activityExclusions": [
+              {
+                "exclusionStartDate": "2031-12-25T18:30:00",
+                "exclusionEndDate": "2031-12-25T21:30:00"
+              },
+              {
+                "exclusionStartDate": "2035-12-25T18:30:00",
+                "exclusionEndDate": "2035-12-25T21:30:00"
+              },
+              {
+                "exclusionStartDate": "2046-12-25T18:30:00",
+                "exclusionEndDate": "2046-12-25T21:30:00"
+              },
+              {
+                "exclusionStartDate": "2036-01-01T18:30:00",
+                "exclusionEndDate": "2036-01-01T21:30:00"
+              },
+              {
+                "exclusionStartDate": "2030-01-01T18:30:00",
+                "exclusionEndDate": "2030-01-01T21:30:00"
+              },
+              {
+                "exclusionStartDate": "2041-01-01T18:30:00",
+                "exclusionEndDate": "2041-01-01T21:30:00"
+              },
+              {
+                "exclusionStartDate": "2026-01-01T18:30:00",
+                "exclusionEndDate": "2026-01-01T21:30:00"
+              },
+              {
+                "exclusionStartDate": "2037-01-01T18:30:00",
+                "exclusionEndDate": "2037-01-01T21:30:00"
+              },
+              {
+                "exclusionStartDate": "2036-12-25T18:30:00",
+                "exclusionEndDate": "2036-12-25T21:30:00"
+              },
+              {
+                "exclusionStartDate": "2029-12-25T18:30:00",
+                "exclusionEndDate": "2029-12-25T21:30:00"
+              },
+              {
+                "exclusionStartDate": "2032-01-01T18:30:00",
+                "exclusionEndDate": "2032-01-01T21:30:00"
+              },
+              {
+                "exclusionStartDate": "2042-12-25T18:30:00",
+                "exclusionEndDate": "2042-12-25T21:30:00"
+              },
+              {
+                "exclusionStartDate": "2047-01-01T18:30:00",
+                "exclusionEndDate": "2047-01-01T21:30:00"
+              },
+              {
+                "exclusionStartDate": "2040-12-25T18:30:00",
+                "exclusionEndDate": "2040-12-25T21:30:00"
+              },
+              {
+                "exclusionStartDate": "2025-12-25T18:30:00",
+                "exclusionEndDate": "2025-12-25T21:30:00"
+              },
+              {
+                "exclusionStartDate": "2043-01-01T18:30:00",
+                "exclusionEndDate": "2043-01-01T21:30:00"
+              }
+            ],
+            "monthWeekInterval": null,
+            "activityEndDate": "2050-11-03T00:00:00",
+            "days": "Tuesday, Thursday",
+            "startTime": "18:30:00",
+            "endTime": "21:30:00",
+            "frequency": {
+              "frequencyName": "Weekly"
+            }
+          }
+        ],
+        "assetLegacyData": {
+          "maxTeamNb": "",
+          "assetTypeId": "FB27C928-54DB-4ECD-B42F-482FC3C8681F",
+          "costAmt": null,
+          "typeName": "",
+          "uploadSearchUrlAdr": "",
+          "avgUserRatingTxt": "",
+          "trackbackUrl": "",
+          "seoUrl": "",
+          "eventCategories": "",
+          "estParticipantNb": "",
+          "participationCriteriaTxt": "",
+          "priceExtensionTxt": "",
+          "isSearchable": false,
+          "onlineMembership": null,
+          "minGuaranteedGameNb": "",
+          "searchWeight": "1.0000",
+          "userCommentTxt": "",
+          "substitutionUrl": "philadelphiawoodworks/registrationmain.sdi?source=showAsset.sdi&activity_id=124",
+          "onlineDonation": null,
+          "genderRequirementTxt": "",
+          "createdDate": "2015-03-01T07:52:09",
+          "onlineMembershipCostAmt": null,
+          "authorName": "",
+          "onlineRegistration": true,
+          "modifiedDate": "2023-06-20T20:40:12",
+          "multipleStartDate": null
+        },
+        "activityEndDate": "2050-11-04T01:30:00",
+        "assetDeals": [],
+        "assetServiceHostName": "prod-asset-101w",
+        "childIndex": null,
+        "assetDescriptions": [
+          {
+            "descriptionType": {
+              "descriptionTypeName": "Standard",
+              "descriptionTypeId": 6
+            },
+            "description": "<div><h4>Description</h4><p><font face=\"Calibri\">  <p class=\"MsoNormal\" style=\"margin: 0in 0in 10pt;\"><font face=\"Calibri\">Look to our website for complete course description, pictures, and material costs (if any). If this class reaches its maximum class size, call us at 267-331-5880 to reserve your place on our waiting list and you'll be the first to know when a spot opens up!</font></p></font>  <p class=\"MsoNormal\" style=\"margin: 0in 0in 10pt;\"><font face=\"Calibri\">Please arrive at least 15 minutes before the start time of your class to fill out the Waiver and Release of Liability. </font></p>  <p class=\"MsoNormal\" style=\"margin: 0in 0in 10pt;\"><font face=\"Calibri\">You must be 18 years or older before the start date of the class. </font></p>  <p class=\"MsoNormal\" style=\"margin: 0in 0in 10pt;\"><font face=\"Calibri\">If you have additional tools you would like to use for the class, please arrive an additional 10 minutes early to give our staff time to look over your tools. </font></p>  <p class=\"MsoNormal\" style=\"margin: 0in 0in 10pt;\"><font face=\"Calibri\">Wear appropriate apparel. Do not wear loose or dangling clothing, gloves, neckties, jewelry or bracelets. Open-toed shoes and sandals are prohibited in the shop and classroom. Long hair must be tied back. Sleeves must either be buttoned at the cuff or rolled up above the elbow and loose clothing tucked in at the waist or wear an apron. Headphones of any kind while using any machines are not permitted. </font></p>  <p class=\"MsoNormal\" style=\"margin: 0in 0in 10pt;\"><font face=\"Calibri\">Make sure to review our Reservation and Cancellation Policy available on our website. </font></p></p></div><div><h4>Activity</h4><p>Conquering the Hand Router (Fixed Base) #10.002.0000</p></div><div><h4>Classes</h4><p><ul><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=1839&_not_show_links=1\">Conquering the Hand Router (Fixed Base)</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=1871&_not_show_links=1\">Conquering the Hand Router (Fixed Base)</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=1921&_not_show_links=1\">Conquering the Hand Router (Fixed Base)</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=1949&_not_show_links=1\">Conquering the Hand Router (Fixed Base)</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=1978&_not_show_links=1\">Conquering the Hand Router (Fixed Base)</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=2017&_not_show_links=1\">Conquering the Hand Router (Fixed Base)</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=2056&_not_show_links=1\">Conquering the Hand Router (Fixed Base)</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=2168&_not_show_links=1\">Conquering the Hand Router (Fixed Base)</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=2212&_not_show_links=1\">Conquering the Hand Router (Fixed Base)</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=2238&_not_show_links=1\">Conquering the Hand Router (Fixed Base)</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=2310&_not_show_links=1\">Conquering the Hand Router (Fixed Base)</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=2311&_not_show_links=1\">Conquering the Hand Router (Fixed Base)</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=2414&_not_show_links=1\">Conquering the Hand Router (Fixed Base)</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=2426&_not_show_links=1\">Conquering the Hand Router (Fixed Base)</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=2486&_not_show_links=1\">Conquering the Hand Router (Fixed Base)</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=2529&_not_show_links=1\">Conquering the Hand Router (Fixed Base)</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=2552&_not_show_links=1\">Conquering the Hand Router (Fixed Base)</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=2583&_not_show_links=1\">Conquering the Hand Router (Fixed Base)</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=2622&_not_show_links=1\">Conquering the Hand Router (Fixed Base)</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=2651&_not_show_links=1\">Conquering the Hand Router (Fixed Base)</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=2680&_not_show_links=1\">Conquering the Hand Router (Fixed Base)</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=126&_not_show_links=1\">Learning the Router</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=154&_not_show_links=1\">Learning the Router</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=224&_not_show_links=1\">Learning the Router</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=393&_not_show_links=1\">Learning the Router</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=442&_not_show_links=1\">Learning the Router</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=474&_not_show_links=1\">Learning the Router</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=544&_not_show_links=1\">Learning the Router</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=550&_not_show_links=1\">Learning the Router</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=610&_not_show_links=1\">Learning the Router</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=611&_not_show_links=1\">Learning the Router</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=679&_not_show_links=1\">Learning the Router</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=786&_not_show_links=1\">Learning the Router</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=895&_not_show_links=1\">Learning the Router</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=992&_not_show_links=1\">Learning the Router</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=1100&_not_show_links=1\">Learning the Router</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=1144&_not_show_links=1\">Learning the Router</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=1197&_not_show_links=1\">Learning the Router</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=1207&_not_show_links=1\">Learning the Router</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=1239&_not_show_links=1\">Learning the Router</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=1264&_not_show_links=1\">Learning the Router</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=1285&_not_show_links=1\">Learning the Router</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=1314&_not_show_links=1\">Learning the Router</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=1317&_not_show_links=1\">Learning the Router</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=1393&_not_show_links=1\">Learning the Router</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=1439&_not_show_links=1\">Learning the Router</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=1466&_not_show_links=1\">Learning the Router</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=1494&_not_show_links=1\">Learning the Router</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=1510&_not_show_links=1\">Learning the Router</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=1545&_not_show_links=1\">Learning the Router</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=1593&_not_show_links=1\">Learning the Router</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=1619&_not_show_links=1\">Learning the Router</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=1733&_not_show_links=1\">Learning the Router</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=1681&_not_show_links=1\">Learning the Router</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=1745&_not_show_links=1\">Learning the Router</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=1778&_not_show_links=1\">Learning the Router</a></li></ul></p></div>"
+          }
+        ],
+        "componentInUrlAdr": {},
+        "activityStartDate": "2012-09-25T22:30:00",
+        "volumePriceIncluded": false,
+        "contactName": "",
+        "sorCreateUserId": "",
+        "localTimeZoneId": "America/New_York",
+        "socialMedia": [],
+        "donationUrlAdr": "",
+        "activenetTopGraphic": {},
+        "assetReferences": [],
+        "market": {},
+        "assetAttributes": [
+          {
+            "attribute": {
+              "tagId": 58737,
+              "attributeValue": "All",
+              "attributeType": "Gender"
+            }
+          },
+          {
+            "attribute": {
+              "tagId": 58731,
+              "attributeValue": "Adult",
+              "attributeType": "Age group"
+            }
+          }
+        ],
+        "timezoneAbb": "",
+        "assetMediaTypes": [
+          {
+            "sequence": 1,
+            "mediaType": {
+              "mediaTypeName": "Class",
+              "mediaTypeDsc": "",
+              "mediaTypeId": 28
+            }
+          },
+          {
+            "sequence": 2,
+            "mediaType": {
+              "mediaTypeName": "Events",
+              "mediaTypeDsc": "",
+              "mediaTypeId": 204
+            }
+          }
+        ],
+        "evergreenAssetFlag": "false",
+        "authorName": "",
+        "registrantSearchUrlAdr": "",
+        "modifiedDate": "2023-06-20T20:40:15",
+        "timezoneName": "",
+        "showContact": "false",
+        "assetParentAsset": {},
+        "assetStatus": {
+          "assetStatusId": "2",
+          "assetStatusName": "VISIBLE"
+        },
+        "regReqMaxAge": 255,
+        "currencyCd": "",
+        "resultsUrlAdr": "",
+        "assetImages": [],
+        "assetRegistrableStatus": "reg-unavailable",
+        "sourceSystem": {
+          "sourceSystemName": "ActiveNet",
+          "legacyGuid": "fb27c928-54db-4ecd-b42f-482fc3c8681f",
+          "id": "7",
+          "affiliate": "true"
+        },
+        "assetGuid": "34b0270f-8e71-4aac-83ad-037d6dd0dd47",
+        "timezone": "UTC",
+        "evergreenParentAsset": {},
+        "assetTags": [
+          {
+            "tag": {
+              "tagId": 58737,
+              "tagName": "All",
+              "tagDescription": "Gender"
+            }
+          },
+          {
+            "tag": {
+              "tagId": 12726200,
+              "tagName": "http://www.active.com/philadelphia-pa/woodworking/classes/conquering-the-hand-router-fixed-base-2012",
+              "tagDescription": "canonicalurl"
+            }
+          },
+          {
+            "tag": {
+              "tagId": 58731,
+              "tagName": "Adult",
+              "tagDescription": "Age group"
+            }
+          },
+          {
+            "tag": {
+              "tagId": 32308,
+              "tagName": "true",
+              "tagDescription": "activeadvantage"
+            }
+          },
+          {
+            "tag": {
+              "tagId": 470158,
+              "tagName": "10.002.0000",
+              "tagDescription": "MISCELLANEOUS"
+            }
+          }
+        ],
+        "assetRootAsset": {},
+        "assetPopularity": {
+          "searches": 0,
+          "createdAt": 1687348805,
+          "clickTypes": {
+            "otherActive": 0,
+            "registration": 0,
+            "nonActive": 0
+          },
+          "clicks": 0,
+          "rank": 40,
+          "results": 40,
+          "views": 0,
+          "A3Rank": 18
+        },
+        "preferredUrlAdr": "",
+        "logoUrlAdr": "",
+        "assetPrices": [],
+        "detailPageTemplateId": "",
+        "assetComponents": [
+          {
+            "sequence": null,
+            "activityStartDate": "2016-02-07T15:00:00",
+            "assetSeoUrls": [],
+            "assetGuid": "12193498-eaab-4bbd-9bcd-710959e93a3f",
+            "activityEndDate": "2016-02-07T22:00:00",
+            "assetName": "Learning the Router"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2016-12-10T15:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "35eaa71b-58af-430d-91ad-3d0546438d81",
+            "activityEndDate": "2016-12-10T21:30:00",
+            "assetName": "Learning the Router"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2017-02-26T15:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "26f3918c-5c06-44a0-8663-4f14f5534612",
+            "activityEndDate": "2017-02-26T21:30:00",
+            "assetName": "Learning the Router"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2017-05-03T22:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "b083f2c3-d7b8-4479-99bf-d0f7e9d98461",
+            "activityEndDate": "2017-05-04T01:30:00",
+            "assetName": "Learning the Router"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2017-06-13T22:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "e3ba1b22-215c-4e33-ad46-2605e564f99b",
+            "activityEndDate": "2017-06-14T01:30:00",
+            "assetName": "Learning the Router"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2017-07-11T22:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "ac88c401-ea48-44ad-b60a-7c8a5a839f8a",
+            "activityEndDate": "2017-07-12T01:30:00",
+            "assetName": "Learning the Router"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2017-08-22T22:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "b143af1f-8613-4c85-9119-ebecd4bea283",
+            "activityEndDate": "2017-08-23T01:30:00",
+            "assetName": "Learning the Router"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2017-10-17T22:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "6dc46160-66c7-4d96-9099-fcb35d87717a",
+            "activityEndDate": "2017-10-18T01:30:00",
+            "assetName": "Learning the Router"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2017-12-06T23:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "8af70127-b816-4b13-a55d-6aabf0fe6d5e",
+            "activityEndDate": "2017-12-07T02:30:00",
+            "assetName": "Learning the Router"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2018-03-20T22:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "9d1b2f47-e7f7-4b8a-9065-07e160094248",
+            "activityEndDate": "2018-03-21T01:30:00",
+            "assetName": "Learning the Router"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2018-01-16T23:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "c5dcedad-ed5b-4ba5-aaf8-00668f528d48",
+            "activityEndDate": "2018-01-17T02:30:00",
+            "assetName": "Learning the Router"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2018-04-10T22:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "d2cec940-9ab0-4c5c-be2e-57b10b552b01",
+            "activityEndDate": "2018-04-11T01:30:00",
+            "assetName": "Learning the Router"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2018-05-29T22:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "28d3b869-51f8-4454-8e4c-8144f8309e7f",
+            "activityEndDate": "2018-05-30T01:30:00",
+            "assetName": "Learning the Router"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2018-07-24T22:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "4d2d6230-3c3c-48ec-8ae1-65ca6949aa37",
+            "activityEndDate": "2018-07-25T01:30:00",
+            "assetName": "Learning the Router"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2018-08-14T22:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "36079ff5-209f-44d0-a2ad-fddfae521c8f",
+            "activityEndDate": "2018-08-15T01:30:00",
+            "assetName": "Learning the Router"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2018-10-02T22:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "c4e8f73b-2208-4310-aedf-41c1aad60ab9",
+            "activityEndDate": "2018-10-03T01:30:00",
+            "assetName": "Learning the Router"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2018-11-29T23:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "7407c628-870b-43d8-9ecc-ff075061d7e5",
+            "activityEndDate": "2018-11-30T02:30:00",
+            "assetName": "Learning the Router"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2019-01-24T23:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "fe3476fd-980e-4b3c-a526-70c8a6e59142",
+            "activityEndDate": "2019-01-25T02:30:00",
+            "assetName": "Learning the Router"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2019-02-20T23:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "d51c45af-21ff-4618-8795-5c02eeceb091",
+            "activityEndDate": "2019-02-21T02:30:00",
+            "assetName": "Learning the Router"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2019-03-28T22:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "a66da1b0-93ca-4a9f-b9ad-cbd064f1c847",
+            "activityEndDate": "2019-03-29T01:30:00",
+            "assetName": "Learning the Router"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2019-06-12T22:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "607344b1-7e5d-409e-a9c7-8ae59e59f879",
+            "activityEndDate": "2019-06-13T01:30:00",
+            "assetName": "Learning the Router"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2019-09-10T22:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "3557dfb4-5551-496d-bf95-b33c746c40ef",
+            "activityEndDate": "2019-09-11T01:30:00",
+            "assetName": "Learning the Router"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2019-11-05T23:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "0a11d464-019a-40a2-ad95-728316399205",
+            "activityEndDate": "2019-11-06T02:30:00",
+            "assetName": "Learning the Router"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2020-01-14T23:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "98a0f038-821d-4cc9-be2f-8ef7f9af88ff",
+            "activityEndDate": "2020-01-15T02:30:00",
+            "assetName": "Conquering the Hand Router (Fixed Base)"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2020-02-25T23:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "e21354ce-4e02-4741-b45e-3470a2ec998d",
+            "activityEndDate": "2020-02-26T02:30:00",
+            "assetName": "Conquering the Hand Router (Fixed Base)"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2020-09-15T22:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "9797544a-b5a4-4839-9072-8319a46ff87e",
+            "activityEndDate": "2020-09-16T01:30:00",
+            "assetName": "Conquering the Hand Router (Fixed Base)"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2020-10-13T22:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "898b69df-b06c-406d-809a-5f2eedd4b46b",
+            "activityEndDate": "2020-10-14T01:30:00",
+            "assetName": "Conquering the Hand Router (Fixed Base)"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2020-11-10T23:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "af4543fe-f95b-4fa9-9639-b3993554d618",
+            "activityEndDate": "2020-11-11T02:30:00",
+            "assetName": "Conquering the Hand Router (Fixed Base)"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2021-01-05T23:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "1caaa48b-f962-42d8-8f82-59e7d531047d",
+            "activityEndDate": "2021-01-06T02:30:00",
+            "assetName": "Conquering the Hand Router (Fixed Base)"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2021-03-24T22:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "320d2f3b-1fd4-4fe5-b16c-0cb18201fef8",
+            "activityEndDate": "2021-03-25T01:30:00",
+            "assetName": "Conquering the Hand Router (Fixed Base)"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2021-07-07T22:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "27860904-ecb8-47ab-8704-c5d7580c6dbd",
+            "activityEndDate": "2021-07-08T01:30:00",
+            "assetName": "Conquering the Hand Router (Fixed Base)"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2021-09-28T22:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "a45c8a48-7f2f-49b7-adcb-cd682029c4fa",
+            "activityEndDate": "2021-09-29T01:30:00",
+            "assetName": "Conquering the Hand Router (Fixed Base)"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2021-11-02T22:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "f9a23b38-eec0-45f6-bb05-9e41ea4ad47b",
+            "activityEndDate": "2021-11-03T01:30:00",
+            "assetName": "Conquering the Hand Router (Fixed Base)"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2022-01-18T23:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "163e9ea2-1798-480c-988d-e98ad6081e86",
+            "activityEndDate": "2022-01-19T02:30:00",
+            "assetName": "Conquering the Hand Router (Fixed Base)"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2022-04-05T22:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "246c1d90-7dcb-42ad-9e47-7796a1d2608e",
+            "activityEndDate": "2022-04-06T01:30:00",
+            "assetName": "Conquering the Hand Router (Fixed Base)"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2022-04-27T22:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "79a65a89-84eb-44d5-8539-1f3020a0c001",
+            "activityEndDate": "2022-04-28T01:30:00",
+            "assetName": "Conquering the Hand Router (Fixed Base)"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2022-06-22T22:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "c19de865-fe42-4e12-b65f-c01ea295b437",
+            "activityEndDate": "2022-06-23T01:30:00",
+            "assetName": "Conquering the Hand Router (Fixed Base)"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2022-09-27T22:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "413b4d85-2733-4a0d-b437-acd463e54d8f",
+            "activityEndDate": "2022-09-28T01:30:00",
+            "assetName": "Conquering the Hand Router (Fixed Base)"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2022-11-08T23:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "44d7d28b-b0cc-4aa0-906c-62f124526f95",
+            "activityEndDate": "2022-11-09T02:30:00",
+            "assetName": "Conquering the Hand Router (Fixed Base)"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2023-01-10T23:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "128f77ab-5017-44fc-bef4-ff820951b03e",
+            "activityEndDate": "2023-01-11T02:30:00",
+            "assetName": "Conquering the Hand Router (Fixed Base)"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2023-02-08T23:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "298b5c0b-5593-43c9-b638-758e16f0ef9a",
+            "activityEndDate": "2023-02-09T02:30:00",
+            "assetName": "Conquering the Hand Router (Fixed Base)"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2023-03-14T22:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "4d7c3e7d-10e8-4619-afd8-fcbccb9c8b90",
+            "activityEndDate": "2023-03-15T01:30:00",
+            "assetName": "Conquering the Hand Router (Fixed Base)"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2023-05-30T22:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "4b41f45b-0576-4bda-b155-6314ca000419",
+            "activityEndDate": "2023-05-31T01:30:00",
+            "assetName": "Conquering the Hand Router (Fixed Base)"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2023-07-25T22:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "f5a9550f-fcc6-4d6c-bb5b-3aab78dfe68e",
+            "activityEndDate": "2023-07-26T01:30:00",
+            "assetName": "Conquering the Hand Router (Fixed Base)"
+          },
+          {
+            "sequence": 1,
+            "activityStartDate": "2015-07-26T14:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "921a2784-91bf-4495-ac3b-1a36f8ba7d89",
+            "activityEndDate": "2015-07-26T21:30:00",
+            "assetName": "Learning the Router - Learning the Router"
+          },
+          {
+            "sequence": 2,
+            "activityStartDate": "2012-11-03T14:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "2a6f8631-b109-40e3-b4f0-aadb14d747f6",
+            "activityEndDate": "2050-11-03T21:30:00",
+            "assetName": "Learning the Router"
+          },
+          {
+            "sequence": 3,
+            "activityStartDate": "2015-05-02T14:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "c4eb594a-9991-4fb5-9c23-d0b38b538b55",
+            "activityEndDate": "2015-05-02T20:30:00",
+            "assetName": "Learning the Router - Learning the Router"
+          },
+          {
+            "sequence": 4,
+            "activityStartDate": "2012-09-25T22:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "64282747-eac1-42c5-ac47-d61496bfd626",
+            "activityEndDate": "2050-11-04T01:30:00",
+            "assetName": "Conquering the Hand Router (Fixed Base)"
+          }
+        ],
+        "teamUrlAdr": "",
+        "sorId": "",
+        "place": {
+          "placeDsc": "",
+          "placeUrlAdr": "",
+          "showPlaceName": true,
+          "timezone": "America/New_York",
+          "postalCode": "19128",
+          "latitude": "40.034113",
+          "directionsTxt": "",
+          "addressLine2Txt": "",
+          "geoPoint": {
+            "lon": "-75.234213",
+            "lat": "40.034113"
+          },
+          "addressLine1Txt": "4901 Umbria Street",
+          "stateProvinceCode": "PA",
+          "localityName": "",
+          "cityName": "Philadelphia",
+          "timezoneOffset": -5,
+          "timezoneDST": 1,
+          "countryCode": "USA",
+          "dma": {
+            "dmaId": 504,
+            "dmaName": "Philadelphia"
+          },
+          "countryName": "United States",
+          "placeGuid": "e8f3bc6d-7df9-4f32-9095-4e5ddc50d612",
+          "placeName": "Philadelphia Woodworks",
+          "longitude": "-75.234213"
+        },
+        "overrideSeourlFlag": false,
+        "assetCategories": [
+          {
+            "sequence": 1,
+            "category": {
+              "categoryName": "Classes",
+              "categoryId": 13,
+              "categoryTaxonomy": "Event/Classes"
+            }
+          }
+        ],
+        "urlAdr": "http://www.active.com/philadelphia-pa/woodworking/classes/conquering-the-hand-router-fixed-base-2012?cmp=39-35-tfunderburk92",
+        "retryCounter": 2,
+        "assetInterests": [],
+        "assetDsc": "",
+        "contactTxt": "",
+        "alternateName": "",
+        "regReqMinAge": 18,
+        "createdDate": "2015-03-01T07:52:09",
+        "assetMetaInterests": [],
+        "salesStartDate": "2023-06-07T08:40:52",
+        "homePageUrlAdr": "www.philadelphiawoodworks.com",
+        "assetQuantity": {
+          "waitlistCnt": "",
+          "soldCnt": "-93",
+          "createdDate": "2015-03-01T07:52:09",
+          "availableCnt": "93",
+          "modifiedDate": "2023-06-20T20:40:12",
+          "capacityNb": "0",
+          "waitlistCapacityNb": ""
+        },
+        "organization": {
+          "primaryContactName": "",
+          "organizationName": "Philadelphia Woodworks, LLC",
+          "addressPostalCd": "19128",
+          "sourceSystemId": 7,
+          "imageUrlAdr": "",
+          "addressCityName": "Philadelphia",
+          "eventCount": 441,
+          "organizationGuid": "4bbb38e3-4dea-4c92-9d72-3ce70ab51cbe",
+          "primaryContactPhone": "2673315880",
+          "addressLine2Txt": "",
+          "shortDsc": "",
+          "addressLine1Txt": "4901 Umbria Street",
+          "addressLocalityName": "",
+          "organizationDsc": "",
+          "organizationUrlAdr": "",
+          "hideOrganizationContact": false,
+          "isDeleted": false,
+          "a3EventCount": 469,
+          "addressStateProvinceCode": "PA",
+          "sourceSystemGuid": "fb27c928-54db-4ecd-b42f-482fc3c8681f",
+          "addressCountryCd": "USA",
+          "showOrganizationName": true,
+          "fax": "2673315892"
+        },
+        "assetName": "Conquering the Hand Router (Fixed Base)",
+        "contactPhone": "",
+        "searchScore": 1.9599999,
+        "assetVersion": 432,
+        "salesStatus": "registration-unavailable"
+      },
+      {
+        "assetTopics": [
+          {
+            "sequence": 1,
+            "topic": {
+              "topicId": 366,
+              "topicName": "Wood work",
+              "topicTaxonomy": "Recreation/Arts and crafts/Wood work"
+            }
+          }
+        ],
+        "salesEndDate": "2062-06-29T21:00:00",
+        "regReqGenderCd": "C",
+        "registrationUrlAdr": "http://www.active.com/philadelphia-pa/woodworking/classes/wine-and-wood-2013",
+        "retryDate": "2023-02-15T05:17:35",
+        "evergreenAssets": [],
+        "assetSeoUrls": [
+          {
+            "seoSystemName": "as3",
+            "statusCode": true,
+            "urlAdr": "http://www.active.com/philadelphia-pa/woodworking/classes/wine-and-wood-2013?cmp=39-35-tfunderburk92"
+          }
+        ],
+        "publishDate": null,
+        "assetChannels": [
+          {
+            "sequence": 1,
+            "channel": {
+              "channelDsc": "",
+              "channelName": "Recreation\\Arts and crafts",
+              "channelId": 2464
+            }
+          }
+        ],
+        "sorCreateDtm": null,
+        "sponsoredContent": {},
+        "dynamicPriceIncluded": false,
+        "localeCd": "",
+        "activityRecurrences": [
+          {
+            "frequencyInterval": null,
+            "activityStartDate": "2013-06-06T00:00:00",
+            "activityExclusions": [
+              {
+                "exclusionStartDate": "2026-01-01T18:30:00",
+                "exclusionEndDate": "2026-01-01T21:00:00"
+              },
+              {
+                "exclusionStartDate": "2037-01-01T18:30:00",
+                "exclusionEndDate": "2037-01-01T21:00:00"
+              },
+              {
+                "exclusionStartDate": "2042-12-25T18:30:00",
+                "exclusionEndDate": "2042-12-25T21:00:00"
+              },
+              {
+                "exclusionStartDate": "2043-01-01T18:30:00",
+                "exclusionEndDate": "2043-01-01T21:00:00"
+              },
+              {
+                "exclusionStartDate": "2060-01-01T18:30:00",
+                "exclusionEndDate": "2060-01-01T21:00:00"
+              },
+              {
+                "exclusionStartDate": "2025-12-25T18:30:00",
+                "exclusionEndDate": "2025-12-25T21:00:00"
+              },
+              {
+                "exclusionStartDate": "2054-01-01T18:30:00",
+                "exclusionEndDate": "2054-01-01T21:00:00"
+              },
+              {
+                "exclusionStartDate": "2036-12-25T18:30:00",
+                "exclusionEndDate": "2036-12-25T21:00:00"
+              },
+              {
+                "exclusionStartDate": "2053-12-25T18:30:00",
+                "exclusionEndDate": "2053-12-25T21:00:00"
+              },
+              {
+                "exclusionStartDate": "2059-12-25T18:30:00",
+                "exclusionEndDate": "2059-12-25T21:00:00"
+              },
+              {
+                "exclusionStartDate": "2032-01-01T18:30:00",
+                "exclusionEndDate": "2032-01-01T21:00:00"
+              },
+              {
+                "exclusionStartDate": "2031-12-25T18:30:00",
+                "exclusionEndDate": "2031-12-25T21:00:00"
+              }
+            ],
+            "monthWeekInterval": null,
+            "activityEndDate": "2062-06-29T00:00:00",
+            "days": "Thursday",
+            "startTime": "18:30:00",
+            "endTime": "21:00:00",
+            "frequency": {
+              "frequencyName": "Weekly"
+            }
+          }
+        ],
+        "assetLegacyData": {
+          "maxTeamNb": "",
+          "assetTypeId": "FB27C928-54DB-4ECD-B42F-482FC3C8681F",
+          "costAmt": null,
+          "typeName": "",
+          "uploadSearchUrlAdr": "",
+          "avgUserRatingTxt": "",
+          "trackbackUrl": "",
+          "seoUrl": "",
+          "eventCategories": "",
+          "estParticipantNb": "",
+          "participationCriteriaTxt": "",
+          "priceExtensionTxt": "",
+          "isSearchable": false,
+          "onlineMembership": null,
+          "minGuaranteedGameNb": "",
+          "searchWeight": "1.0000",
+          "userCommentTxt": "",
+          "substitutionUrl": "philadelphiawoodworks/registrationmain.sdi?source=showAsset.sdi&activity_id=304",
+          "onlineDonation": null,
+          "genderRequirementTxt": "",
+          "createdDate": "2015-03-01T08:02:30",
+          "onlineMembershipCostAmt": null,
+          "authorName": "",
+          "onlineRegistration": true,
+          "modifiedDate": "2023-02-15T05:07:35",
+          "multipleStartDate": null
+        },
+        "activityEndDate": "2062-06-30T01:00:00",
+        "assetDeals": [],
+        "assetServiceHostName": "prod-asset-102w",
+        "childIndex": null,
+        "assetDescriptions": [
+          {
+            "descriptionType": {
+              "descriptionTypeName": "Standard",
+              "descriptionTypeId": 6
+            },
+            "description": "<div><h4>Description</h4><p><p class=\"MsoNormal\" style=\"margin: 0in 0in 10pt;\"><font face=\"Calibri\">Look to our website for complete course description, pictures, and material costs (if any). If this class reaches its maximum class size, call us at 267-331-5880 to reserve your place on our waiting list and you'll be the first to know when a spot opens up!</font></p><p class=\"MsoNormal\" style=\"margin: 0in 0in 10pt;\"><font face=\"Calibri\">Please arrive at least 15 minutes before the start time of your class to fill out the Waiver and Release of Liability. </font></p><p class=\"MsoNormal\" style=\"margin: 0in 0in 10pt;\"><font face=\"Calibri\">You must be 18 years or older before the start date of the class. </font></p><p class=\"MsoNormal\" style=\"margin: 0in 0in 10pt;\"><font face=\"Calibri\">If you have additional tools you would like to use for the class, please arrive an additional 10 minutes early to give our staff time to look over your tools. </font></p><p class=\"MsoNormal\" style=\"margin: 0in 0in 10pt;\"><font face=\"Calibri\">Wear appropriate apparel. Do not wear loose or dangling clothing, gloves, neckties, jewelry or bracelets. Open-toed shoes and sandals are prohibited in the shop and classroom. Long hair must be tied back. Sleeves must either be buttoned at the cuff or rolled up above the elbow and loose clothing tucked in at the waist or wear an apron. Headphones of any kind while using any machines are not permitted. </font></p><p class=\"MsoNormal\" style=\"margin: 0in 0in 10pt;\"><font face=\"Calibri\">Make sure to review our Reservation and Cancellation Policy available on our website. </font></p><p> </p></p></div><div><h4>Activity</h4><p>Wine &amp; Wood! #15.003.0000</p></div><div><h4>Classes</h4><p><ul><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=1047&_not_show_links=1\">Wine &amp; Wood!</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=1075&_not_show_links=1\">Wine &amp; Wood!</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=1099&_not_show_links=1\">Wine &amp; Wood!</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=1177&_not_show_links=1\">Wine &amp; Wood!</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=1255&_not_show_links=1\">Wine &amp; Wood!</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=1288&_not_show_links=1\">Wine &amp; Wood!</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=1333&_not_show_links=1\">Wine &amp; Wood!</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=1338&_not_show_links=1\">Wine &amp; Wood!</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=1392&_not_show_links=1\">Wine &amp; Wood!</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=1508&_not_show_links=1\">Wine &amp; Wood!</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=1509&_not_show_links=1\">Wine &amp; Wood!</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=1602&_not_show_links=1\">Wine &amp; Wood!</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=1844&_not_show_links=1\">Wine &amp; Wood!</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=1907&_not_show_links=1\">Wine &amp; Wood!</a></li><li><a href=\"http://anprod.active.com/philadelphiawoodworks/registrationmain.sdi?source=adet.sdi&activity_id=2272&_not_show_links=1\">Wine &amp; Wood!</a></li></ul></p></div>"
+          }
+        ],
+        "componentInUrlAdr": {},
+        "activityStartDate": "2013-06-06T22:30:00",
+        "volumePriceIncluded": false,
+        "contactName": "",
+        "sorCreateUserId": "",
+        "localTimeZoneId": "America/New_York",
+        "socialMedia": [],
+        "donationUrlAdr": "",
+        "activenetTopGraphic": {},
+        "assetReferences": [],
+        "market": {},
+        "assetAttributes": [
+          {
+            "attribute": {
+              "tagId": 58731,
+              "attributeValue": "Adult",
+              "attributeType": "Age group"
+            }
+          },
+          {
+            "attribute": {
+              "tagId": 58737,
+              "attributeValue": "All",
+              "attributeType": "Gender"
+            }
+          }
+        ],
+        "timezoneAbb": "",
+        "assetMediaTypes": [
+          {
+            "sequence": 1,
+            "mediaType": {
+              "mediaTypeName": "Events",
+              "mediaTypeDsc": "",
+              "mediaTypeId": 204
+            }
+          },
+          {
+            "sequence": 2,
+            "mediaType": {
+              "mediaTypeName": "Class",
+              "mediaTypeDsc": "",
+              "mediaTypeId": 28
+            }
+          }
+        ],
+        "evergreenAssetFlag": "false",
+        "authorName": "",
+        "registrantSearchUrlAdr": "",
+        "modifiedDate": "2023-02-15T05:07:36",
+        "timezoneName": "",
+        "showContact": "false",
+        "assetParentAsset": {},
+        "assetStatus": {
+          "assetStatusId": "2",
+          "assetStatusName": "VISIBLE"
+        },
+        "regReqMaxAge": 255,
+        "currencyCd": "",
+        "resultsUrlAdr": "",
+        "assetImages": [],
+        "assetRegistrableStatus": "reg-open",
+        "sourceSystem": {
+          "sourceSystemName": "ActiveNet",
+          "legacyGuid": "fb27c928-54db-4ecd-b42f-482fc3c8681f",
+          "id": "7",
+          "affiliate": "true"
+        },
+        "assetGuid": "4e6ee404-eef9-4e1d-9196-f20740188656",
+        "timezone": "UTC",
+        "evergreenParentAsset": {},
+        "assetTags": [
+          {
+            "tag": {
+              "tagId": 58737,
+              "tagName": "All",
+              "tagDescription": "Gender"
+            }
+          },
+          {
+            "tag": {
+              "tagId": 32308,
+              "tagName": "true",
+              "tagDescription": "activeadvantage"
+            }
+          },
+          {
+            "tag": {
+              "tagId": 58731,
+              "tagName": "Adult",
+              "tagDescription": "Age group"
+            }
+          },
+          {
+            "tag": {
+              "tagId": 31612,
+              "tagName": "Recreation",
+              "tagDescription": "MISCELLANEOUS"
+            }
+          },
+          {
+            "tag": {
+              "tagId": 470187,
+              "tagName": "15.003.0000",
+              "tagDescription": "MISCELLANEOUS"
+            }
+          },
+          {
+            "tag": {
+              "tagId": 3034094,
+              "tagName": "http://www.active.com/philadelphia-pa/woodworking/classes/wine-and-wood-2013",
+              "tagDescription": "canonicalurl"
+            }
+          }
+        ],
+        "assetRootAsset": {},
+        "assetPopularity": {
+          "searches": 0,
+          "createdAt": 1687348805,
+          "clickTypes": {
+            "otherActive": 0,
+            "registration": 0,
+            "nonActive": 0
+          },
+          "clicks": 0,
+          "rank": 111,
+          "results": 102,
+          "views": 9,
+          "A3Rank": 49
+        },
+        "preferredUrlAdr": "",
+        "logoUrlAdr": "",
+        "assetPrices": [],
+        "detailPageTemplateId": "",
+        "assetComponents": [
+          {
+            "sequence": null,
+            "activityStartDate": "2016-09-28T22:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "b660b07f-f4e6-45de-9edc-9026d3588f2a",
+            "activityEndDate": "2016-09-29T01:30:00",
+            "assetName": "Wine &amp; Wood!"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2016-11-30T23:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "5c84ef27-36cb-443f-9fdd-099385ac49f1",
+            "activityEndDate": "2016-12-01T02:30:00",
+            "assetName": "Wine &amp; Wood!"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2017-02-15T23:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "a659206d-b6eb-4908-b0e7-21b54236fd86",
+            "activityEndDate": "2017-02-16T02:30:00",
+            "assetName": "Wine &amp; Wood!"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2017-05-17T22:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "ac8f0e1a-3828-404d-89b1-6e0656ebf21c",
+            "activityEndDate": "2017-05-18T01:30:00",
+            "assetName": "Wine &amp; Wood!"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2017-10-04T22:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "98b666f6-8210-4875-bd4c-25f51d344cc4",
+            "activityEndDate": "2017-10-05T01:30:00",
+            "assetName": "Wine & Wood!"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2017-11-29T23:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "12d52e17-f764-4f66-be69-2211cbbe40a8",
+            "activityEndDate": "2017-11-30T02:30:00",
+            "assetName": "Wine & Wood!"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2017-12-20T23:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "25828dda-37a8-4c06-817b-050bedea8b33",
+            "activityEndDate": "2017-12-21T02:30:00",
+            "assetName": "Wine & Wood!"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2018-01-31T23:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "acbe4903-8e8a-4714-9c81-0422690198aa",
+            "activityEndDate": "2018-02-01T02:30:00",
+            "assetName": "Wine & Wood!"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2018-04-18T22:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "87592208-adbe-43ba-9816-dc094b322267",
+            "activityEndDate": "2018-04-19T01:30:00",
+            "assetName": "Wine & Wood!"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2019-02-13T23:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "f0aafbca-3263-42fd-a1a6-83b8720c9da8",
+            "activityEndDate": "2019-02-14T02:30:00",
+            "assetName": "Wine & Wood!"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2018-10-10T22:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "3f7fe436-1edd-4c5c-a5f0-6c6a67f0a508",
+            "activityEndDate": "2018-10-11T01:30:00",
+            "assetName": "Wine & Wood!"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2019-10-23T22:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "ff580cb5-bc02-4f36-85fe-2850c29a2e50",
+            "activityEndDate": "2019-10-24T01:30:00",
+            "assetName": "Wine & Wood!"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2020-02-12T23:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "3e25bd6a-05a1-4fd2-bea9-fb08af807875",
+            "activityEndDate": "2020-02-13T02:30:00",
+            "assetName": "Wine & Wood!"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2021-12-09T23:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "e7b50613-b36b-4faf-8379-9689c5258000",
+            "activityEndDate": "2021-12-10T03:00:00",
+            "assetName": "Wine & Wood!"
+          },
+          {
+            "sequence": null,
+            "activityStartDate": "2023-02-14T23:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "3f8c7e7d-57c3-4f68-b1ad-e6bd9da0aa24",
+            "activityEndDate": "2023-02-15T02:30:00",
+            "assetName": "Wine & Wood!"
+          },
+          {
+            "sequence": 1,
+            "activityStartDate": "2013-06-06T22:30:00",
+            "assetSeoUrls": [],
+            "assetGuid": "06ba022d-42e4-4f85-bf57-1a419db9341b",
+            "activityEndDate": "2062-06-30T01:00:00",
+            "assetName": "Wine & Wood!"
+          }
+        ],
+        "teamUrlAdr": "",
+        "sorId": "",
+        "place": {
+          "placeDsc": "",
+          "placeUrlAdr": "",
+          "showPlaceName": true,
+          "timezone": "America/New_York",
+          "postalCode": "19128",
+          "latitude": "40.034113",
+          "directionsTxt": "",
+          "addressLine2Txt": "",
+          "geoPoint": {
+            "lon": "-75.234213",
+            "lat": "40.034113"
+          },
+          "addressLine1Txt": "4901 Umbria Street",
+          "stateProvinceCode": "PA",
+          "localityName": "",
+          "cityName": "Philadelphia",
+          "timezoneOffset": -5,
+          "timezoneDST": 1,
+          "countryCode": "USA",
+          "dma": {
+            "dmaId": 504,
+            "dmaName": "Philadelphia"
+          },
+          "countryName": "United States",
+          "placeGuid": "e8f3bc6d-7df9-4f32-9095-4e5ddc50d612",
+          "placeName": "Philadelphia Woodworks",
+          "longitude": "-75.234213"
+        },
+        "overrideSeourlFlag": false,
+        "assetCategories": [
+          {
+            "sequence": 1,
+            "category": {
+              "categoryName": "Classes",
+              "categoryId": 13,
+              "categoryTaxonomy": "Event/Classes"
+            }
+          }
+        ],
+        "urlAdr": "http://www.active.com/philadelphia-pa/woodworking/classes/wine-and-wood-2013?cmp=39-35-tfunderburk92",
+        "retryCounter": 2,
+        "assetInterests": [],
+        "assetDsc": "",
+        "contactTxt": "",
+        "alternateName": "",
+        "regReqMinAge": 21,
+        "createdDate": "2015-03-01T08:02:30",
+        "assetMetaInterests": [],
+        "salesStartDate": "2022-12-01T10:45:58",
+        "homePageUrlAdr": "www.philadelphiawoodworks.com",
+        "assetQuantity": {
+          "waitlistCnt": "",
+          "soldCnt": "-62",
+          "createdDate": "2015-03-01T08:02:30",
+          "availableCnt": "62",
+          "modifiedDate": "2023-02-15T05:07:35",
+          "capacityNb": "0",
+          "waitlistCapacityNb": ""
+        },
+        "organization": {
+          "primaryContactName": "",
+          "organizationName": "Philadelphia Woodworks, LLC",
+          "addressPostalCd": "19128",
+          "sourceSystemId": 7,
+          "imageUrlAdr": "",
+          "addressCityName": "Philadelphia",
+          "eventCount": 441,
+          "organizationGuid": "4bbb38e3-4dea-4c92-9d72-3ce70ab51cbe",
+          "primaryContactPhone": "2673315880",
+          "addressLine2Txt": "",
+          "shortDsc": "",
+          "addressLine1Txt": "4901 Umbria Street",
+          "addressLocalityName": "",
+          "organizationDsc": "",
+          "organizationUrlAdr": "",
+          "hideOrganizationContact": false,
+          "isDeleted": false,
+          "a3EventCount": 469,
+          "addressStateProvinceCode": "PA",
+          "sourceSystemGuid": "fb27c928-54db-4ecd-b42f-482fc3c8681f",
+          "addressCountryCd": "USA",
+          "showOrganizationName": true,
+          "fax": "2673315892"
+        },
+        "assetName": "Wine & Wood!",
+        "contactPhone": "",
+        "searchScore": 1.9599999,
+        "assetVersion": 371,
+        "salesStatus": "registration-open"
+      }
+    ],
+    "radius": null,
+    "start_date": "",
+    "boost": null,
+    "sort": "distance"
+  }
