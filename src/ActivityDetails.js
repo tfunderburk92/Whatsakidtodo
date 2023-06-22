@@ -36,10 +36,12 @@ const ActivityDetails = () => {
 
   return (
     <div>
-    <h1>Activity details ID: {search.split('=')[1]}</h1>
-      <h2>Activity details name: {activity ? activity.assetName : "NOT FOUND"}</h2>
+    <h1>Activity Details ID: {search.split('=')[1]}</h1>
+      <h2>Activity Details Name: {activity ? activity.assetName : "NOT FOUND"}</h2>
       <h3>Creation date: {activity ? activity.createdDate : "NOT FOUND"}</h3>
+      <h4> Follow the link below for more information.
 
+      </h4>
       {activity && activity.urlAdr ? <a target="_blank" href={activity.urlAdr }>Go to link</a> : <b>LINK DOES NOT EXIST</b> }
       </div>
     
