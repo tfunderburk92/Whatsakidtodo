@@ -25,20 +25,21 @@ const ActivityDetails = () => {
           setData(data)
         }); */
 
-    return jsonData.results;
+    // return jsonData.results;
   }
 
   useEffect(() => {
     setData(loadActivities())
-  }, [])
+  }, []) //activities will be stored as an array 
 
   console.log(data)
 
   return (
     <div>
-    <h1>Activity Details ID: {search.split('=')[1]}</h1>
+    {/* <h1>Activity Details ID: {search.split('=')[1]}</h1> */}
       <h2>Activity Details Name: {activity ? activity.assetName : "NOT FOUND"}</h2>
-      <h3>Creation date: {activity ? activity.createdDate : "NOT FOUND"}</h3>
+      <h3>Creation date: {activity ? activity.createdDate : "NOT FOUND"}</h3> 
+      {/* <h3> Event date: {activity ? activity.EndDate : "NOT FOUND"}</h3> */}
       <h4> Follow the link below for more information.
 
       </h4>
