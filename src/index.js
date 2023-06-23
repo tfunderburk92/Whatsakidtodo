@@ -4,8 +4,9 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { Router, BrowserRouter, Route, Routes } from 'react-router-dom';
-import ActivityDetails from './ActivityDetails'
-
+import ActivityDetails from './ActivityDetails'; 
+// import { Map, Marker} from 'pigeon-maps';   
+import {Map,Market, MyMap} from './map'; 
 const prepare = () => {
   if (process.env.NODE_ENV === 'development') {  // prevents the mock server from working in a deployed, production env
     const { worker } = require('./mocks/browser.js')
@@ -14,7 +15,7 @@ const prepare = () => {
   return Promise.resolve()
 }
 
- 
+ MyMap(); 
 // prepare().then(() => {
   const root = ReactDOM.createRoot(document.getElementById('root'))
   root.render(
